@@ -586,7 +586,7 @@
 
         .row.justify-content-center.align-items-center.mt-4 
           .col-lg-6(data-aos="fade-right")
-            pTrazo de la falda básica:           
+            p Trazo de la falda básica:           
             .row.justify-content-center.align-items-center.mt-3
               .col-lg-10               
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=BHbdXNmFjnI&t=19s" target="_blank")

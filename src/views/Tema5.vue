@@ -118,6 +118,8 @@
 
     .titulo-segundo#t_5_1.mt-5
       .h4(data-aos="fade-right") 5.1 Concepto control de calidad 
+    .video.mt-5
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/q0KKRXraNwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
     p.mt-5 Lo primero por definir son los objetivos y las necesidades en la calidad del producto antes de iniciar con una inspección. El control estadístico de la calidad es el proceso conformado por una serie de técnicas para analizar el comportamiento de las variaciones de los requerimientos del producto con el fin de establecer acciones de mejoramiento, calidad, incremento en ventas, además, de la productividad de la empresa.  
     p.mt-5 En lo que respecta al cliente, se puede plantear de 3 niveles de satisfacción:  
     .row.justify-content-center.align-items-stretch.mt-5
