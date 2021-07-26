@@ -77,107 +77,40 @@
             .cajon.color-acento-contenido.p-4
               p.mb-0 Dentro de las funciones de un supervisor en procesos de confección está el velar porque cada uno de estos se haya dado y cuente con las especificaciones y orientaciones que permitan y faciliten el proceso de producción en planta para las prendas de vestir, ello asegura el cumplimiento en tiempos y requerimientos de calidad establecidos.  
 
-    p Es importante tener presente los saberes adquiridos en cuanto a identificar el tipo de maquinaria y su respectivo funcionamiento, por ello en los videos de este módulo se encontrarán las operaciones básicas que pueden ser implementadas de manera genérica en las prendas como lo son bolsillos, ribetes, puños, etc.        
+    p Es importante tener presente los saberes adquiridos en cuanto a identificar el tipo de maquinaria y su respectivo funcionamiento, por ello en los videos de este módulo se encontrarán las operaciones básicas que pueden ser implementadas de manera genérica en las prendas como lo son bolsillos, ribetes, puños, etc. 
 
-    .row.justify-content-center.align-items-center.mt-5(data-aos="zoom-in")
-      .col-lg-8.bg-4.p-4
-        .list
-            .list__item
-                .list__item__number
-                    span a.
-            .list__txt 
-                span Operaciones básicas para el manejo en máquina plana una aguja Paso 1 Costuras rectas a ¼ pulgada: 
-                .row.justify-content-center.align-items-center.mt-3
-                  .col-lg-10                
-                    a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=m6Bda8bTNxk" target="_blank")
-                      .anexo__icono
-                        img(src="@/assets/template/icono-link.svg")
-                      .anexo__texto
-                        p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 1 Costuras rectas a ¼ pulgada. 
+    .tarjeta.tarjeta--gris.p-4.mt-5(data-aos="zoom-in")
+      PasosB.color-secundario
+        .row.justify-content-center.align-items-center(titulo="Operaciones básicas para el manejo en máquina plana una aguja Paso 1 Costuras rectas a ¼ pulgada ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/m6Bda8bTNxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+        .row.justify-content-center.align-items-center(titulo="Operaciones básicas para el manejo en máquina plana una aguja Paso 2 Costuras a alforzas de ¼” ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/5vxh3RXCw8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+        .row.justify-content-center.align-items-center(titulo="Operaciones básicas para el manejo en máquina plana una aguja Paso 3 Costuras a alforzas de 1 16” ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Sv7X27S7MSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
-        .list.mt-4
-            .list__item
-                .list__item__number
-                    span b.
-            .list__txt 
-                span Operaciones básicas para el manejo en máquina plana una aguja Paso 2 Costuras a alforzas de ¼”:  
-                .row.justify-content-center.align-items-center.mt-3
-                  .col-lg-10                
-                    a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=5vxh3RXCw8c" target="_blank")
-                      .anexo__icono
-                        img(src="@/assets/template/icono-link.svg")
-                      .anexo__texto
-                        p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 2 Costuras a alforzas de ¼”. 
+        .row.justify-content-center.align-items-center(titulo="Operaciones básicas para el manejo en máquina plana una aguja Paso 4 Pegar bolsillos: falta video")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/m6Bda8bTNxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
-        .list.mt-4
-            .list__item
-                .list__item__number
-                    span c.
-            .list__txt 
-                span Operaciones básicas para el manejo en máquina plana una aguja Paso 3 Costuras a alforzas de 1 16”: 
-                .row.justify-content-center.align-items-center.mt-3
-                  .col-lg-10              
-                    a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Sv7X27S7MSE" target="_blank")
-                      .anexo__icono
-                        img(src="@/assets/template/icono-link.svg")
-                      .anexo__texto
-                        p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 3 Costuras a alforzas de 1 16”. 
-
-        .list.mt-4
-            .list__item
-                .list__item__number
-                    span d.
-            .list__txt 
-                span Operaciones básicas para el manejo en máquina plana una aguja Paso 4 Pegar bolsillos: 
-                .row.justify-content-center.align-items-center.mt-3
-                  .col-lg-10            
-                    a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=fUW6xK vpzs0" target="_blank")
-                      .anexo__icono
-                        img(src="@/assets/template/icono-link.svg")
-                      .anexo__texto
-                        p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 4 Pegar bolsillos.
-
-        .list.mt-4
-            .list__item
-                .list__item__number
-                    span e.
-            .list__txt 
-                span e. Operaciones básicas para el manejo en máquina plana una aguja Paso 5 Bolsillo de ribete sencillo:
-                .row.justify-content-center.align-items-center.mt-3
-                  .col-lg-10         
-                    a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=wULIEdIahzE" target="_blank")
-                      .anexo__icono
-                        img(src="@/assets/template/icono-link.svg")
-                      .anexo__texto
-                        p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 5 Bolsillo de ribete sencillo.
-
-        .list.mt-4
-            .list__item
-                .list__item__number
-                    span f.
-            .list__txt 
-                span Operaciones básicas para el manejo en máquina plana una aguja Paso 6 Bolsillo de ribete doble: 
-                .row.justify-content-center.align-items-center.mt-3
-                  .col-lg-10           
-                    a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=4kT8atODsIQ" target="_blank")
-                      .anexo__icono
-                        img(src="@/assets/template/icono-link.svg")
-                      .anexo__texto
-                        p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 6 Bolsillo de ribete doble. 
-
-        .list.mt-4
-            .list__item
-                .list__item__number
-                    span g.
-            .list__txt 
-                span Operaciones básicas para el manejo en máquina plana una aguja Paso 7 Coser pechera sencilla:  
-                .row.justify-content-center.align-items-center.mt-3
-                  .col-lg-10         
-                    a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=V8PrD9bgvb8" target="_blank")
-                      .anexo__icono
-                        img(src="@/assets/template/icono-link.svg")
-                      .anexo__texto
-                        p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 7 Coser pechera sencilla.
+        .row.justify-content-center.align-items-center(titulo="Operaciones básicas para el manejo en máquina plana una aguja Paso 5 Bolsillo de ribete sencillo")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/wULIEdIahzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+        .row.justify-content-center.align-items-center(titulo="Operaciones básicas para el manejo en máquina plana una aguja Paso 6 Bolsillo de ribete doble ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/4kT8atODsIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+        .row.justify-content-center.align-items-center(titulo="Operaciones básicas para el manejo en máquina plana una aguja Paso 7 Coser pechera sencilla ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/V8PrD9bgvb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     .h4.mt-5(data-aos="fade-right") Orden  operacional
     p Cuando se habla de órdenes operacionales, corresponde al paso a paso por operación y con tiempos para llevar a cabo el desarrollo de una prenda, en este caso la camisa.
@@ -289,218 +222,97 @@
           td Preparación de portañuela
           td 1. Doblar y planchar las portañuelas a 1 cm de ambos lados de las aletillas hacia el revés de la tela.<br><br>2. Coser primero manga y portañuela: Por uno de los lados planchados, pongan la manga con vista hacia abajo, y aletilla vista hacia abajo con una pestaña de 1 cm al pasar la costura por la “y” o marca.<br><br>3. Voltear la portañuela y la manga y hagan sobrecostura, al filo de la aletilla, teniendo cuidado que la costura de abajo no se salga.<br><br>4. Encimar la aletilla para formar el pico, de tal manera que se identifique aletilla sobre aletilla. Debe quedar el pico de aletilla sobre aletilla para hacer el pespunte.<br><br>5. El pico de la portañuela se forma con los dedos acomodando la parte de inferior con la parte superior se forma el pico.<br><br>6. Pasar pespunte al filo u orillo del pico de la portañuela y continuar hasta los 3 cm hacia abajo.<br><br>7. Cruzar la aletilla y terminar el pespunte donde empezaron.  
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10.bg-4.p-5
-        .row.justify-content-center.align-items-center 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 1]. Confección blusa camisera:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=nDQqLI5_VPo&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Confección blusa camisera.               
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 2]. Preparar cuello:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=jwt4avwp6y0&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=5" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Preparar cuello. 
+    .tarjeta.tarjeta--gris.p-4.mt-5(data-aos="zoom-in")
+      PasosB.color-secundario
+        .row.justify-content-center.align-items-center(titulo="Paso 1. Confección blusa camisera")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/nDQqLI5_VPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 3]. Preparar manga coser portañuela y puños:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=vxmsXHHBXWc&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=4" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Preparar manga, coser portapañuelos y puños.               
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 4]. Preparar delantero, coser pinzas y pespuntear pechera:
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=8zurivBBOsE&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=3" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Preparar delantero, coser pinzas y pespuntear pechera.
+        .row.justify-content-center.align-items-center(titulo="Paso 2. Preparar cuello ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/jwt4avwp6y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 5]. Preparar posterior, coser pinzas:         
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Vde63W5SJVA&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=12" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Preparar posterior, coser pinzas.                
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 6]. Unir por hombros:  
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=gHQJfaPkahw&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=13" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Unir por hombros.
+        .row.justify-content-center.align-items-center(titulo="Paso 3. Preparar manga coser portañuela y puños ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/vxmsXHHBXWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 7]. Pespuntar hombros:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10              
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=0aF-nOKG1tA&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=17" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pespuntar hombros.              
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 8]. Pegar cuello:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=-r-B9BBPN4k&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=9" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pegar cuello. 
+        .row.justify-content-center.align-items-center(titulo="Paso 4. Preparar delantero, coser pinzas y pespuntear pechera")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/8zurivBBOsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 9]. Pespuntar cuello:          
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10              
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=-fYx-VI0_tE&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=10" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pespuntar cuello.              
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 10]. Pegar mangas:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=qOpxd29hxko&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=8" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pegar mangas. 
+        .row.justify-content-center.align-items-center(titulo="Paso 5. Preparar posterior, coser pinzas")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Vde63W5SJVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 11]. Pespuntar mangas:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=L2Tv-blhRnM&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=14" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pespuntar mangas.               
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 12]. Cerrar costados:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=gOtAib9rMwQ&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=11" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Cerrar costados.
+        .row.justify-content-center.align-items-center(titulo="Paso 6. Unir por hombros ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/gHQJfaPkahw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 13]. Pegar puños:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=budtB_UPjtU&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=15" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pegar puños.                
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 14]. Pespuntar puño:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=xnaxcqqKfTw&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=16" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pespuntar puño. 
+        .row.justify-content-center.align-items-center(titulo="Paso 7. Pespuntar hombros ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/0aF-nOKG1tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 15]. Dobladillar ruedo:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10              
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=pTroSaIBKDs&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=6" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Dobladillar ruedo.                
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 16]. Marcar ojales y ojalar:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=LemTAGq3BwI&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=7" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Marcar ojales y ojalar. 
+        .row.justify-content-center.align-items-center(titulo="Paso 8. Pegar cuello ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/-r-B9BBPN4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 17]. Marcar botones y botonar:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Zwx_QULWajg&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=18" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Marcar botones y botonar.                
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 18]. Limpiar, revisar y planchar:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=azhymYdHJBw&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=19" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Limpiar, revisar y planchar.
+        .row.justify-content-center.align-items-center(titulo="Paso 9. Pespuntar cuello ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/-fYx-VI0_tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10.bg-2.p-5
-        .BorTit Ensamble de camisa       
-        .row.justify-content-center.align-items-center 
-          .col-lg-6(data-aos="zoom-in")
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_6_PROCESO_CONFECCION_CAMISA_MASCULINA.pdf')" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-pdf.svg")
-                  .anexo__texto
-                    p #[b Anexo]. Proceso confección camisa masculina.               
-          .col-lg-6(data-aos="zoom-in") 
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=xD1u53N8sWQ&ab_channel=LaCosturadiy" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Confección de camisa Slim Fit para hombre.
+        .row.justify-content-center.align-items-center(titulo="Paso 10. Pegar mangas")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/qOpxd29hxko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="zoom-in")
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=g7nLMKAMVVQ&ab_channel=informativos" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Cómo se confecciona una camisa artesanalmente.  
+        .row.justify-content-center.align-items-center(titulo="Paso 11. Pespuntar mangas ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/L2Tv-blhRnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 12. Cerrar costados ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/gOtAib9rMwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 13. Pegar puños ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/budtB_UPjtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 14. Pespuntar puño ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/xnaxcqqKfTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 15. Dobladillar ruedo ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/pTroSaIBKDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 16. Marcar ojales y ojalar ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/LemTAGq3BwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 17. Marcar botones y botonar")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Zwx_QULWajg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 18. Limpiar, revisar y planchar ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/azhymYdHJBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     .h4.mt-5(data-aos="fade-right") Orden operacional de la confección de la falda clásica
     p.mt-5 Es necesario que para la confección de la falda clásica se tengan ya los elementos que fueron previamente trazados y patronados, así como el material textil, cierre e insumos necesarios para generar los acabados.
@@ -562,127 +374,67 @@
                       .list__txt 
                           span Realizar dobladillo.      
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10.bg-4.p-5
-        .row.justify-content-center.align-items-center 
-          .col-lg-6(data-aos="fade-right")
-            p Introducción patronaje y confección de la falda básica:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=iMD25Zp__uM" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Introducción patronaje y confección de la falda básica.               
-          .col-lg-6(data-aos="fade-left") 
-            p Alistamiento de materiales para la falda básica   
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Ded13sVkftw" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Alistamiento de materiales para la falda básica. 
+    .tarjeta.tarjeta--gris.p-4.mt-5(data-aos="zoom-in")
+      PasosB.color-secundario
+        .row.justify-content-center.align-items-center(titulo="Introducción patronaje y confección de la falda básica ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/iMD25Zp__uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p Trazo de la falda básica:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=BHbdXNmFjnI&t=19s" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Trazo de la falda básica.               
-          .col-lg-6(data-aos="fade-left") 
-            p Patronaje posterior de falda:
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=dsuuUlFiRFU" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Patronaje posterior de falda.
+        .row.justify-content-center.align-items-center(titulo="Alistamiento de materiales para la falda básica ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Ded13sVkftw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p Patronaje delantero de falda:         
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=ljWlKVgj-Hw" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Patronaje delantero de falda.                
-          .col-lg-6(data-aos="fade-left") 
-            p Despiece, costura e industrialización de moldes:  
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=g03DnF8CVng" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Despiece, costura e industrialización de moldes.
+        .row.justify-content-center.align-items-center(titulo="Trazo de la falda básica ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/BHbdXNmFjnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p Corte de pretina en entretela:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10              
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Rq3OQSxBFas" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Corte de pretina en entretela              
-          .col-lg-6(data-aos="fade-left") 
-            p Corte de la falda básica:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=w9GGdFRgpzY" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Corte de la falda básica. 
+        .row.justify-content-center.align-items-center(titulo="Patronaje posterior de falda")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/dsuuUlFiRFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p Piezas cortadas, revisión:          
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10              
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=haKjHIqWpGU" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Piezas cortadas, revisión. cuello              
-          .col-lg-6(data-aos="fade-left") 
-            p Procesos de preparación en ensamble de falda:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=qYml4Zt6HwQ" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Procesos de preparación en ensamble de falda. 
+        .row.justify-content-center.align-items-center(titulo="Patronaje delantero de falda ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/ljWlKVgj-Hw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p Ensamble de la falda básica:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=N_HOblGA_SU" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Ensamble de la falda básica               
-          .col-lg-6(data-aos="fade-left") 
-            p Proceso de terminación de falda:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Q4TtVwonSdQ" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Proceso de terminación de falda.
+        .row.justify-content-center.align-items-center(titulo="Despiece, costura e industrialización de moldes ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/g03DnF8CVng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Corte de pretina en entretela ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Rq3OQSxBFas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Corte de la falda básica ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/w9GGdFRgpzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Piezas cortadas, revisión ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/haKjHIqWpGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Procesos de preparación en ensamble de falda ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/qYml4Zt6HwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Ensamble de la falda básica ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/N_HOblGA_SU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Proceso de terminación de falda ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Q4TtVwonSdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     .h4.mt-5(data-aos="fade-right") Hilos para la confección
     .video.mt-5
@@ -741,187 +493,97 @@
 
     p.mt-5 Se le invita a ver los videos relacionados a continuación sobre los pasos correspondientes a la confección de camiseta tipo polo 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10.bg-4.p-5
-        .row.justify-content-center.align-items-center 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 1]. Alistamiento para la confección de la camiseta tipo polo:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=wsb9glAu1qk&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=12" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Alistamiento para la confección de la camiseta tipo polo.               
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 2]. Prehormar pechera y hacer quiebre en delantero:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=v_yemOgg9Rw&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=11" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Prehormar pechera y hacer quiebre en delantero. 
+    .tarjeta.tarjeta--gris.p-4.mt-5(data-aos="zoom-in")
+      PasosB.color-secundario
+        .row.justify-content-center.align-items-center(titulo="Paso 1. Alistamiento para la confección de la camiseta tipo polo ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/wsb9glAu1qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 3]. Pegar pechera:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=5B1k2XznFlg&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=20" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pegar pechera.               
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 4]. Unir por hombros:
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=rBrE6bikCRw&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=10" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Unir por hombros.
+        .row.justify-content-center.align-items-center(titulo="Paso 2. Prehormar pechera y hacer quiebre en delantero ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/v_yemOgg9Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 5]. Pegar puños tejidos a mangas:         
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=WiAEkGtqQG4&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=9" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pegar puños tejidos a mangas.                
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 6]. Pespuntar puños de mangas:  
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=HBleW0yTvAg&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=8" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pespuntar puños de mangas.
+        .row.justify-content-center.align-items-center(titulo="Paso 3. Pegar pechera ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/5B1k2XznFlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 7]. Pespuntar hombros:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10              
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=SKK9Trf8254&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=7" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pespuntar hombros.              
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 8]. Fijar puntas de cuello:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Z_XH8YaJIlA&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=6" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Fijar puntas de cuello. 
+        .row.justify-content-center.align-items-center(titulo="Paso 4. Unir por hombros")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/rBrE6bikCRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 9]. Pegar cuello:          
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10              
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=NXY9Tb77E3o&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=5" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pegar cuello.              
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 10]. Pespuntar cuello:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=9c0_G42xbeI&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=3" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pespuntar cuello. 
+        .row.justify-content-center.align-items-center(titulo="Paso 5. Pegar puños tejidos a mangas ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/WiAEkGtqQG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 11]. Pespuntar pechera:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Eth7yvWIiEc&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pespuntar pechera.               
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 12]. Pegar mangas:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=K571s6w4_Xg&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=19" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pegar mangas.
+        .row.justify-content-center.align-items-center(titulo="Paso 6. Pespuntar puños de mangas ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/HBleW0yTvAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 13]. Pespuntar mangas:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Dh4-NQONpuY&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=18" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Pespuntar mangas.                
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 14]. Unir por costados:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=oEu8URPgkVI&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=17" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Unir por costados. 
+        .row.justify-content-center.align-items-center(titulo="Paso 7. Pespuntar hombros ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/SKK9Trf8254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 15]. Filetear pechera:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10              
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=qpEL-O1k2I0&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=16" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Filetear pechera.                
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 16]. Dobladillar ruedo:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=CBhvm1ICgs8&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=15" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Dobladillar ruedo. 
+        .row.justify-content-center.align-items-center(titulo="Paso 8. Fijar puntas de cuello ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Z_XH8YaJIlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 17]. Marcar ojales y ojalar:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=e2WGjWOmIzA&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=14" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Marcar ojales y ojalar.                
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 18]. Marcar botones y botonar:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=BYFyy5WU-Uo&list=PLkc5n6npRWkjH9BnFJlUpDKgV0Zk3yhVe&index=13" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Marcar botones y botonar.
+        .row.justify-content-center.align-items-center(titulo="Paso 9. Pegar cuello ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/NXY9Tb77E3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 10. Pespuntar cuello ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/9c0_G42xbeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 11. Pespuntar pechera ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Eth7yvWIiEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 12. Pegar mangas ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/K571s6w4_Xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 13. Pespuntar mangas ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Dh4-NQONpuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 14. Unir por costados ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/oEu8URPgkVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 15. Filetear pechera ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/qpEL-O1k2I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 16. Dobladillar ruedo ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/CBhvm1ICgs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 17. Marcar ojales y ojalar ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/e2WGjWOmIzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        .row.justify-content-center.align-items-center(titulo="Paso 18. Marcar botones y botonar ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/BYFyy5WU-Uo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .BorTit.mt-5 Tabla 7  Orden operacional de pantalón sudadera       
     .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")
@@ -941,127 +603,75 @@
 
     p.mt-5 Se le invita a ver los videos relacionados a continuación sobre los pasos correspondientes a la confección del pantalón de sudadera:
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10.bg-4.p-5
-        .row.justify-content-center.align-items-center 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 1]. Alistamiento para la confección de pantalón sudadera:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=G-cwBVckDq4&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=13" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Alistamiento para la confección de pantalón sudadera.               
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 2]. Medir, cortar, coser elástico y marcación:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=uuWDflzDFGA&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=12" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Medir, cortar, coser elástico y marcación. 
+    .tarjeta.tarjeta--gris.p-4.mt-5(data-aos="zoom-in")
+      PasosB.color-secundario
+        .row.justify-content-center.align-items-center(titulo="Paso 1. Alistamiento para la confección de pantalón sudadera ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/G-cwBVckDq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 3]. Coser bolsillos laterales:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Zwfp0oWJftk&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=11" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Coser bolsillos laterales.               
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 4]. Filetear bolsillos:
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Mie5EoCZVMw&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=10" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Filetear bolsillos.
+        .row.justify-content-center.align-items-center(titulo="Paso 2. Medir, cortar, coser elástico y marcación ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/uuWDflzDFGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 5]. Unir costados incluyendo sesgo:         
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=9A3TteZcgno&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=9" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Unir costados incluyendo sesgo.                
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 6]. Filetear costado:  
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=9ph3Sel-9Bs&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=8Unir por entrepierna" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Filetear costado.
+        .row.justify-content-center.align-items-center(titulo="Paso 3. Coser bolsillos laterales ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Zwfp0oWJftk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 7]. Unir por entrepierna:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10              
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=79XxGyuhmQg&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=7" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Unir por entrepierna.              
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 8]. Unir tiros:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=MriPZnacsDI&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=6Fijar elástico" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Unir tiros. 
+        .row.justify-content-center.align-items-center(titulo="Paso 4. Filetear bolsillos")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Mie5EoCZVMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 9]. Fijar elástico:          
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10              
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Eg9HQYZVyKA&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=5" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Fijar elástico.              
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 10]. Dobladillar botas:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=0qf5jZGpnZo&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=4" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Dobladillar botas. 
 
-        .row.justify-content-center.align-items-center.mt-4 
-          .col-lg-6(data-aos="fade-right")
-            p #[b Paso 11]. Sentar elástico:           
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10               
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=qVoGjoahb7g&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=3" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Sentar elástico.               
-          .col-lg-6(data-aos="fade-left") 
-            p #[b Paso 12]. Limpiar y revisar prenda:     
-            .row.justify-content-center.align-items-center.mt-3
-              .col-lg-10                
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=_ubzS_tkjNE&list=PLkc5n6npRWkiqk_Ipq85h4kbZPH6Pl4xu&index=2" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Enlace web]. Limpiar y revisar prenda.    
+        .row.justify-content-center.align-items-center(titulo="Paso 5. Unir costados incluyendo sesgo ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/9A3TteZcgno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+
+
+        .row.justify-content-center.align-items-center(titulo="Paso 6. Filetear costado ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/9ph3Sel-9Bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+
+
+        .row.justify-content-center.align-items-center(titulo="Paso 7. Unir por entrepierna ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/79XxGyuhmQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+
+
+        .row.justify-content-center.align-items-center(titulo="Paso 8. Unir tiros ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/MriPZnacsDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+
+
+        .row.justify-content-center.align-items-center(titulo="Paso 9. Fijar elástico ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/Eg9HQYZVyKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+
+
+        .row.justify-content-center.align-items-center(titulo="Paso 10. Dobladillar botas ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/0qf5jZGpnZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+
+
+        .row.justify-content-center.align-items-center(titulo="Paso 11. Sentar elástico ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/qVoGjoahb7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+
+
+        .row.justify-content-center.align-items-center(titulo="Paso 12. Limpiar y revisar prenda ")
+          .col-12
+            .video.mt-4
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/_ubzS_tkjNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 <script>
 export default {
