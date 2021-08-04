@@ -223,36 +223,9 @@
 
     .titulo-segundo.mt-5#t_3_1
       .h4(data-aos="fade-right") 3.1 Orden operacional de confección de camisa
-    p.my-5 Para el desarrollo de la ruta operacional en confección de camisa se irán haciendo una serie de ejercicios con diferentes ejemplos trazos, cortes, formas, que al final permitirán el ensamble de la camisa:
-    .row.justify-content-center.align-items-center
-      .col-lg-10
-        .tarjeta.color-acento-contenido.p-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/ilustraciones/img20.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0.text-white
-                  h4.mb-1 Orden operacional de confección de camisa 
-                  p.text-small En la siguiente tabla se presenta detalladamente el proceso para la preparación de las piezas. 
-                .col-sm-auto
-                  a.boton.color-secundario.texto-blanco(:href="obtenerLink('')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download                               
+    p.my-5 Para el desarrollo de la ruta operacional en confección de camisa se irán haciendo una serie de ejercicios con diferentes ejemplos trazos, cortes, formas, que al final permitirán el ensamble de la camisa.
 
-    h4.mt-5(data-aos="fade-right") Confección de blusa camisera
-    .row.justify-content-center.align-items-center.mt-4
-      .col-lg-6
-        .bloque-texto-d.color-acento-contenido.p-4
-          .bloque-texto-d__texto.mb-2
-            i.fas.fa-quote-left
-            h4.px-3.text-regular Una camisa es una prenda de vestir que cubre el tronco hasta la cadera o medio muslo, con cuello, manga corta o larga, que se abrocha por delante con botones; suele llevar un canesú en la espalda que permite dar amplitud al cuerpo de la prenda.
-            i.fas.fa-quote-right
-          .bloque-texto-d__autor 
-            .h5.mb-0 (Rae, 2021)
-
-      .col-lg-2
-        img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img65.png', alt='')      
+    p En la siguiente tabla se presenta detalladamente el proceso para la preparación de las piezas. 
 
     .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")
       table
@@ -288,7 +261,23 @@
         tr
           td 6
           td Preparación de portañuela
-          td 1. Doblar y planchar las portañuelas a 1 cm de ambos lados de las aletillas hacia el revés de la tela.<br><br>2. Coser primero manga y portañuela: Por uno de los lados planchados, pongan la manga con vista hacia abajo, y aletilla vista hacia abajo con una pestaña de 1 cm al pasar la costura por la “y” o marca.<br><br>3. Voltear la portañuela y la manga y hagan sobrecostura, al filo de la aletilla, teniendo cuidado que la costura de abajo no se salga.<br><br>4. Encimar la aletilla para formar el pico, de tal manera que se identifique aletilla sobre aletilla. Debe quedar el pico de aletilla sobre aletilla para hacer el pespunte.<br><br>5. El pico de la portañuela se forma con los dedos acomodando la parte de inferior con la parte superior se forma el pico.<br><br>6. Pasar pespunte al filo u orillo del pico de la portañuela y continuar hasta los 3 cm hacia abajo.<br><br>7. Cruzar la aletilla y terminar el pespunte donde empezaron.  
+          td 1. Doblar y planchar las portañuelas a 1 cm de ambos lados de las aletillas hacia el revés de la tela.<br><br>2. Coser primero manga y portañuela: Por uno de los lados planchados, pongan la manga con vista hacia abajo, y aletilla vista hacia abajo con una pestaña de 1 cm al pasar la costura por la “y” o marca.<br><br>3. Voltear la portañuela y la manga y hagan sobrecostura, al filo de la aletilla, teniendo cuidado que la costura de abajo no se salga.<br><br>4. Encimar la aletilla para formar el pico, de tal manera que se identifique aletilla sobre aletilla. Debe quedar el pico de aletilla sobre aletilla para hacer el pespunte.<br><br>5. El pico de la portañuela se forma con los dedos acomodando la parte de inferior con la parte superior se forma el pico.<br><br>6. Pasar pespunte al filo u orillo del pico de la portañuela y continuar hasta los 3 cm hacia abajo.<br><br>7. Cruzar la aletilla y terminar el pespunte donde empezaron.                               
+
+    h4.mt-5(data-aos="fade-right") Confección de blusa camisera
+    .row.justify-content-center.align-items-center.mt-4
+      .col-lg-6
+        .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            h4.px-3.text-regular Una camisa es una prenda de vestir que cubre el tronco hasta la cadera o medio muslo, con cuello, manga corta o larga, que se abrocha por delante con botones; suele llevar un canesú en la espalda que permite dar amplitud al cuerpo de la prenda.
+            i.fas.fa-quote-right
+          .bloque-texto-d__autor 
+            .h5.mb-0 (Rae, 2021)
+
+      .col-lg-2
+        img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img65.png', alt='')      
+
+    
 
     p.mt-5 Para realizar su confección, a continuación encontrará 18 pasos ilustrados, que le permitirán realizar un buen trabajo. Bienvenido.
 
