@@ -164,13 +164,13 @@
             | Cada empresa implementa su propia ruta o modelos de fichas de orden operacional y dependerá de los lineamientos que se establecen desde producción, a continuación, se muestran algunos ejemplos de orden operacional de algunas prendas, en las figuras 7 y 8. 
 
     .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10.bg-4.p-5
+      .col-lg-12.bg-4.p-5
         .row.justify-content-center.align-items-center
           .col-lg-12
             .BorTit #[b Figura 7] Orden operacional de camisa
         .row.justify-content-center.align-items-center.mt-5       
           .col-lg-12
-            img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img17.svg',alt='') 
+            img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img17.jpg',alt='') 
         .row.justify-content-center.align-items-center.mt-3
           .col-lg-11                     
             figcaption Nota. Pellegrino (2011). 
@@ -182,7 +182,7 @@
             .BorTit #[b Figura 8] Orden operacional de blusa
         .row.justify-content-center.align-items-center.mt-5       
           .col-lg-12
-            img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img18.svg',alt='') 
+            img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img18.jpg',alt='') 
         .row.justify-content-center.align-items-center.mt-3
           .col-lg-11                     
             figcaption Nota. Pellegrino (2011). 
