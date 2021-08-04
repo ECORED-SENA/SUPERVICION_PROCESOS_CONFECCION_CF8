@@ -118,103 +118,100 @@
 
     .titulo-segundo#t_5_1.mt-5
       .h4(data-aos="fade-right") 5.1 Concepto control de calidad 
-    .video.mt-5
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/q0KKRXraNwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
     p.mt-5 Lo primero por definir son los objetivos y las necesidades en la calidad del producto antes de iniciar con una inspección. El control estadístico de la calidad es el proceso conformado por una serie de técnicas para analizar el comportamiento de las variaciones de los requerimientos del producto con el fin de establecer acciones de mejoramiento, calidad, incremento en ventas, además, de la productividad de la empresa.  
-    p.mt-5 En lo que respecta al cliente, se puede plantear de 3 niveles de satisfacción:  
+    p.mt-5 En lo que respecta al #[b #[i cliente]], se puede plantear de 3 niveles de satisfacción:  
     .row.justify-content-center.align-items-stretch.mt-5
-      .col-lg-4(data-aos="zoom-in")
-        .row.justify-content-center.align-items-stretch.mt-5
-          .col-lg-11.border-bg-2.px-0
-            p.p-3.text-center.bg-2 #[b Necesidades] 
-              <br> Principal objetivo del producto
-            .row.justify-content-center.align-items-center.mb-3
-              .col-lg-10.p-2            
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 1.
-                    .list__txt 
-                        span Ser funcional.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 2.
-                    .list__txt 
-                        span Resolver el problema.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 3.
-                    .list__txt 
-                        span Entrega oportuna.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 4.
-                    .list__txt 
-                        span Respetar el precio acordado.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 5.
-                    .list__txt 
-                        span.mb-4 Tiempo de duración de vida útil.
-      .col-lg-4(data-aos="zoom-in")
-        .row.justify-content-center.align-items-stretch.mt-5
-          .col-lg-11.border-bg-2.px-0
-            p.p-3.text-center.bg-2 #[b Expectativas]
-            .row.justify-content-center.align-items-center.mb-3
-              .col-lg-10.p-2            
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 1.
-                    .list__txt 
-                        span Darle importancia al cliente.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 2.
-                    .list__txt 
-                        span Trato cordial y amable.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 3.
-                    .list__txt 
-                        span Hacerlo sentir importante. 
-      .col-lg-4(data-aos="zoom-in")
-        .row.justify-content-center.align-items-stretch.mt-5
-          .col-lg-11.border-bg-2.px-0
-            p.p-3.text-center.bg-2 #[b Superar expectativas]
-            .row.justify-content-center.align-items-center.mb-3
-              .col-lg-10.p-2            
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 1.
-                    .list__txt 
-                        span Asistencia técnica.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 2.
-                    .list__txt 
-                        span Descuentos.
-                .list.mt-2
-                    .list__item
-                        .list__item__number
-                            span 3.
-                    .list__txt 
-                        span Tiempos de entrega.  
+      .col-lg-4.border-bg-2.p-5.bg-2(data-aos="zoom-in")
+        img.img-t(src='@/assets/ilustraciones/img70.png', alt='')      
+        p #[b Necesidades] 
+          <br> Principal objetivo del producto
+        .row.justify-content-center.align-items-center.mb-3
+          .col-lg-10.p-2            
+            .list.mt-2
+                .list__item
+                    .list__item__number
+                        span 1.
+                .list__txt 
+                    span Ser funcional.
+            .list.mt-2
+                .list__item
+                    .list__item__number
+                        span 2.
+                .list__txt 
+                    span Resolver el problema.
+            .list.mt-2
+                .list__item
+                    .list__item__number
+                        span 3.
+                .list__txt 
+                    span Entrega oportuna.
+            .list.mt-2
+                .list__item
+                    .list__item__number
+                        span 4.
+                .list__txt 
+                    span Respetar el precio acordado.
+            .list.mt-2
+                .list__item
+                    .list__item__number
+                        span 5.
+                .list__txt 
+                    span.mb-4 Tiempo de duración de vida útil.
+      .col-lg-4.border-bg-2.p-5.bg-2_1(data-aos="zoom-in")
+        img.img-t(src='@/assets/ilustraciones/img71.png', alt='')      
+        p #[b Expectativas]
+        .row.justify-content-center.align-items-center.mb-3
+          .col-lg-10.p-2            
+            .list.mt-2
+                .list__item
+                    .list__item__number
+                        span 1.
+                .list__txt 
+                    span Darle importancia al cliente.
+            .list.mt-2
+                .list__item
+                    .list__item__number
+                        span 2.
+                .list__txt 
+                    span Trato cordial y amable.
+            .list.mt-2
+                .list__item
+                    .list__item__number
+                        span 3.
+                .list__txt 
+                    span Hacerlo sentir importante. 
+      .col-lg-4.border-bg-2.p-5.bg-2(data-aos="zoom-in")
+        img.img-t(src='@/assets/ilustraciones/img72.png', alt='')      
+        p #[b Superar expectativas]
+        .row.justify-content-center.align-items-center.mb-3
+          .col-lg-10.p-2            
+            .list.mt-2
+                .list__item
+                    .list__item__number
+                        span 1.
+                .list__txt 
+                    span Asistencia técnica.
+            .list.mt-2
+                .list__item
+                    .list__item__number
+                        span 2.
+                .list__txt 
+                    span Descuentos.
+            .list.mt-2
+                .list__item
+                    .list__item__number
+                        span 3.
+                .list__txt 
+                    span Tiempos de entrega.  
 
     .row.justify-content-center.align-items-center.mt-5       
       .col-lg-10
         .cajon.color-acento-contenido.p-4
-          .row.justify-content-center.align-items-center       
-            .col-lg-11
-              p En lo que respecta al producto, existen los siguientes tipos de requisitos:             
+          .row.justify-content-center.align-items-center
+            .col-lg-4
+              img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img74.png', alt='')      
+            .col-lg-6
+              p En lo que respecta al #[b #[i producto]], existen los siguientes tipos de requisitos:             
               .list
                   .list__item
                       .list__item__icon
@@ -261,11 +258,12 @@
     p.mt-5 Conforme lo mencionado anteriormente también se pueden clasificar los requisitos de acuerdo con las características directas del producto, de la organización o externos como es el cliente y la normatividad. Dado que se presentan variaciones en los productos es preciso permitir tolerancias.
 
     .row.justify-content-center.align-items-center.mt-5       
-      .col-lg-8
-        .cajon.color-acento-botones.p-4
+      .col-lg-5
+        .cajon.color-acento-botones.p-5
           .row.justify-content-center.align-items-center       
             .col-lg-11
-              p Los beneficios de implementar las herramientas para controlar la calidad son, figura 16:            
+              img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img76.png', alt='')            
+              p.mt-4 Los beneficios de implementar las herramientas para controlar la calidad son, figura 16:            
               .list
                   .list__item
                       .list__item__icon
@@ -302,12 +300,10 @@
                           img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
                   .list__txt 
                       span Aumento de la productividad. 
-
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-6     
+      .col-lg-5
         .BorTit #[b Figura 16] Beneficios del control de calidad
-        img.img-t.img-a.mt-5(data-aos="zoom-in")(src='@/assets/ilustraciones/img37.svg', alt='')                        
-        figcaption.mt-4 Nota: Calidad Aplicada a la Gestión Empresarial (2018).
+        img.img-t.img-a.mt-4(data-aos="zoom-in")(src='@/assets/ilustraciones/img75.png', alt='') 
+        figcaption.mt-4 Nota: Calidad Aplicada a la Gestión Empresarial (2018).     
 
     p.mt-5 El control de la calidad en la industria se realiza en procesos y recursos, aquellos intervienen en la producción de la prenda son, así como se puede observar en la figura 17:
 
@@ -355,14 +351,8 @@
                 .list__txt 
                     span Análisis y definición de acciones correctivas, análisis de causas de defectos.   
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-5
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=yjTzSupLG64" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p #[b Enlace web]. Tipos de Auditorías
-            
+    .video.mt-5
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/yjTzSupLG64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
     .h4.mt-5(data-aos="fade-right") Automatización en control de calidad en la industria textil y confección  
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
@@ -387,7 +377,7 @@
           .col-7
             figure
               img(src='@/assets/ilustraciones/img39.svg', alt='')
-        img.img-t.my-2(src='@/assets/ilustraciones/img43.svg', alt='')               
+        img.img-t.my-2(src='@/assets/ilustraciones/img43_1.svg', alt='')               
 
         h3 Primera Revolución Industrial
 
@@ -396,7 +386,7 @@
           .col-7
             figure
               img(src='@/assets/ilustraciones/img40.svg', alt='')
-        img.img-t.my-2(src='@/assets/ilustraciones/img43.svg', alt='')               
+        img.img-t.my-2(src='@/assets/ilustraciones/img43_2.svg', alt='')               
 
         h3 Segunda Revolución Industrial
 
@@ -405,7 +395,7 @@
           .col-7
             figure
               img(src='@/assets/ilustraciones/img41.svg', alt='')
-        img.img-t.my-2(src='@/assets/ilustraciones/img43.svg', alt='')               
+        img.img-t.my-2(src='@/assets/ilustraciones/img43_3.svg', alt='')               
 
         h3 Tercera Revolución Industrial
 
@@ -414,7 +404,7 @@
           .col-7
             figure
               img(src='@/assets/ilustraciones/img42.svg', alt='')
-        img.img-t.my-2(src='@/assets/ilustraciones/img43.svg', alt='')               
+        img.img-t.my-2(src='@/assets/ilustraciones/img43_4.svg', alt='')               
 
         h3 Industria 4.0                  
     .row.justify-content-center.align-items-center.mt-2
@@ -492,7 +482,28 @@
             .row.justify-content-center.align-items-center
               .col-lg-12
                 .BorTit #[b Figura 19] Ciclo Deming
-                img.img-t.img-a.my-2(data-aos="fade-down")(src='@/assets/ilustraciones/img45.svg', alt='') 
+                ImagenInfografica.color-primario.mt-3(data-aos="zoom-in")
+
+                  template(v-slot:imagen)
+                    figure
+                      img.img-a.img-t(src='@/assets/ilustraciones/img45.png', alt='')
+
+                  .tarjeta.color-acento-botones.p-3(x="35.6%" y="24%")
+                    p.mb-2 #[b Planificar] (Plan):
+                    p ¿Qué hacer? ¿Cómo hacerlo?
+
+                  .tarjeta.color-acento-botones.p-3(x="64.3%" y="24%")
+                    p.mb-2 #[b Hacer] (Do):
+                    p Realizar lo planeado.
+
+                  .tarjeta.color-acento-botones.p-3(x="64.7%" y="70.5%")
+                    p.mb-2 #[b Verificar] (Check):
+                    p ¿Ocurrieron las cosas según lo planeado?
+
+                  .tarjeta.color-acento-botones.p-3(x="35%" y="70.5%")
+                    p.mb-2 #[b Actuar] (Act):
+                    p Cómo mejorar la próxima vez.                    
+
                 figcaption Nota. Cal y mayor (2021). 
 
     .h4.mt-5(data-aos="fade-right") Cultura de calidad  
@@ -502,67 +513,87 @@
     p.mt-5 En la siguiente figura 20 se aprecia los componentes de los círculos de calidad.
 
     .row.justify-content-center.align-items-center.mt-5       
-      .col-lg-8
+      .col-lg-6
         .row.justify-content-center.align-items-center
-          .col-lg-12.bg-3.p-5
+          .col-lg-12
             .row.justify-content-center.align-items-center
               .col-lg-12
                 .BorTit #[b Figura 20] Círculos de calidad desarrollados por Kauro Ishikawa.
-                img.img-t.img-a.my-2(data-aos="fade-down")(src='@/assets/ilustraciones/img46.jpg', alt='') 
+                ImagenInfografica.color-primario.mt-3(data-aos="zoom-in")
+
+                  template(v-slot:imagen)
+                    figure
+                      img.img-a.img-t(src='@/assets/ilustraciones/img46.png', alt='')
+
+                  .tarjeta.color-acento-botones.p-3(x="32%" y="24%")
+                    p Tomar acciones apropiadas. 
+
+                  .tarjeta.color-acento-botones.p-3(x="62%" y="24%")
+                    p Determinar metas y objetivos.
+                    p Determinar métodos para alcanzar metas.
+
+                  .tarjeta.color-acento-botones.p-3(x="62%" y="70.5%")
+                    p Estimular entrenamiento y educación.
+                    p Realizar el trabajo.
+
+                  .tarjeta.color-acento-botones.p-3(x="32%" y="70.5%")
+                    p Verificar los efectos de la implementación.                 
                 figcaption Nota. Cal y mayor (2021). 
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-6.bg-2.p-5
-        .row.justify-content-center.align-items-center
+      .col-lg-6
+        .row.justify-content-center.align-items-center.mt-5       
           .col-lg-12
-            p Ishikawa mostró la importancia de las siete (7) herramientas de calidad:       
-            .list.mt-2
-                .list__item
-                    .list__item__number
-                        span 1.
-                .list__txt 
-                    span Histogramas.
-            .list.mt-2
-                .list__item
-                    .list__item__number
-                        span 2.
-                .list__txt 
-                    span Diagrama de causa y efecto.
-            .list.mt-2
-                .list__item
-                    .list__item__number
-                        span 3.
-                .list__txt 
-                    span Hoja de revisión.
-            .list.mt-2
-                .list__item
-                    .list__item__number
-                        span 4.
-                .list__txt 
-                    span Diagrama de Pareto.
-            .list.mt-2
-                .list__item
-                    .list__item__number
-                        span 5.
-                .list__txt 
-                    span Mapa de control.
-            .list.mt-2
-                .list__item
-                    .list__item__number
-                        span 6.
-                .list__txt 
-                    span Diagrama de dispersión.
-            .list.mt-2
-                .list__item
-                    .list__item__number
-                        span 7.
-                .list__txt 
-                    span Grafos.                  
+            .cajon.color-acento-contenido.p-4
+              p Ishikawa mostró la importancia de las siete (7) herramientas de calidad:       
+                .list.mt-2
+                    .list__item
+                        .list__item__number
+                            span 1.
+                    .list__txt 
+                        span Histogramas.
+                .list.mt-2
+                    .list__item
+                        .list__item__number
+                            span 2.
+                    .list__txt 
+                        span Diagrama de causa y efecto.
+                .list.mt-2
+                    .list__item
+                        .list__item__number
+                            span 3.
+                    .list__txt 
+                        span Hoja de revisión.
+                .list.mt-2
+                    .list__item
+                        .list__item__number
+                            span 4.
+                    .list__txt 
+                        span Diagrama de Pareto.
+                .list.mt-2
+                    .list__item
+                        .list__item__number
+                            span 5.
+                    .list__txt 
+                        span Mapa de control.
+                .list.mt-2
+                    .list__item
+                        .list__item__number
+                            span 6.
+                    .list__txt 
+                        span Diagrama de dispersión.
+                .list.mt-2
+                    .list__item
+                        .list__item__number
+                            span 7.
+                    .list__txt 
+                        span Grafos.                  
 
     .h4.mt-5(data-aos="fade-right") Metodología de mejoramiento continuo
-    p.mt-5 La metodología se encuentra enmarcada dentro del ciclo de mejoramiento continuo ejecutado en 13 pasos. Para alcanzar un óptimo resultado se recomienda integrar al proceso a todo el personal sin excepción alguna.
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-6.bg-2.p-5
+    .row.justify-content-center.align-items-stretch.mt-5       
+      .col-lg-6.cajon.color-acento-contenido.p-4.text-just.border-bg-2
+        p  La metodología se encuentra enmarcada dentro del ciclo de mejoramiento continuo ejecutado en 13 pasos. Para alcanzar un óptimo resultado se recomienda integrar al proceso a todo el personal sin excepción alguna.
+
+      .col-lg-6.bg-2.p-5.border-bg-2
         .row.justify-content-center.align-items-center
           .col-lg-12
             p Los elementos del KAIZEN son:
@@ -598,7 +629,7 @@
                     span Sugerencias para la mejoría. 
 
     p.mt-5 Los pasos de cada elemento se pueden observar en la tabla 7. 
-    .BorTit.mt-5 Tabla 6 Pasos en la metodología Kaizen     
+    .BorTit.mt-5 Tabla 7 Pasos en la metodología Kaizen     
     .tabla-b.color-acento-contenido.mt-5(data-aos="zoom-in")
       .tabla-b__header
         h5.mb-0 Pasos en la metodología Kaizen
@@ -955,26 +986,26 @@
     .row.justify-content-center.align-items-stretch
       .col-lg-3(data-aos="zoom-in")
         .row.justify-content-center.align-items-stretch.mt-5
-          .col-lg-11.border-bg-2.px-0
+          .col-lg-11.border-bg-3.px-0
             p.p-3.text-center.bg-2 #[b Explícitos] 
               p.p-3 Declarados por el cliente, según expectativas del cliente. 
 
       .col-lg-3(data-aos="zoom-in")
         .row.justify-content-center.align-items-stretch.mt-5
-          .col-lg-11.border-bg-2.px-0
+          .col-lg-11.border-bg-3.px-0
             p.p-3.text-center.bg-2 #[b Implícitos]
             p.p-3 Necesarios para que cumplan función.
 
 
       .col-lg-3(data-aos="zoom-in")
         .row.justify-content-center.align-items-stretch.mt-5
-          .col-lg-11.border-bg-2.px-0
+          .col-lg-11.border-bg-3.px-0
             p.p-3.text-center.bg-2 #[b Legales o reglamentarios]
             p.p-3 De acuerdo con cumplir leyes. 
 
       .col-lg-3(data-aos="zoom-in")
         .row.justify-content-center.align-items-stretch.mt-5
-          .col-lg-11.border-bg-2.px-0
+          .col-lg-11.border-bg-3.px-0
             p.p-3.text-center.bg-2 #[b Legales o reglamentarios]
             p.p-3 Según las políticas de la empresa. 
 

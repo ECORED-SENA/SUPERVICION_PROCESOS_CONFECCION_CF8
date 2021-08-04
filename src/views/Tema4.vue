@@ -70,21 +70,10 @@
                 img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img26.png', alt='')
                 figcaption Nota. CARVIMSA. (S.F.). 
 
-    .row.justify-content-center.align-items-center
-      .col-lg-10
-        .tarjeta.color-acento-contenido.p-3.mt-5
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/ilustraciones/img20.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0.text-white
-                  h4.mb-1 Producto Terminado
-                  p.text-small A continuación, se muestra un ejemplo en donde se documenta con detalle las piezas, la construcción, las telas y medidas de piezas terminadas.  
-                .col-sm-auto
-                  a.boton.color-secundario.texto-blanco(href="https://www.youtube.com/watch?v=I8adPpXG-n8&t=194s" target="_blank")
-                    span Ver
-                    i.fas.fa-play-circle        
+    p.mt-5 A continuación, se muestra un ejemplo en donde se documenta con detalle las piezas, la construcción, las telas y medidas de piezas terminadas. 
+    .video.mt-5
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/I8adPpXG-n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+    
     
 </template>
 <script>

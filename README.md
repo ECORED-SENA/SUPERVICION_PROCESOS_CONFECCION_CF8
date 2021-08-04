@@ -1,8 +1,8 @@
 # **sena-base-2021 v4.0.0**
 
-## **https://ecored-sena.github.io/SUPERVICION_PROCESOS_CONFECCION_CF8/**
+## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/SUPERVICION_PROCESOS_CONFECCION_CF8/](https://ecored-sena.github.io/SUPERVICION_PROCESOS_CONFECCION_CF8/)
+[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
 
 #
 

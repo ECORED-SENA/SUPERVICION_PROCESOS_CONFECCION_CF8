@@ -40,12 +40,17 @@
               p.text-small  Ropa interior masculina de tejido plano; esta norma establece los requisitos que debe cumplir el confeccionista en cuanto los ensayos de las telas con las cuales se confeccionan los calzoncillos elaborados en tejido plano.         
   
     .row.justify-content-center.align-items-center.mt-5
-      .col-lg-5
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_1_NORMA_TECNICA_COLOMBIANA.pdf')" target="_blank")
+      .col-lg-7  
+        .row.justify-content-center.align-items-center       
+          .col-lg-12
+            .cajon.color-acento-contenido.p-4
+              p.mb-0 Para abordar en mayor profundidad las normas técnicas colombianas, visita los documentos de las guías o normas técnicas colombianas, en el sistema de Bibliotecas SENA que permitirá identificar las diferentes normas que existen de las prendas de vestir.   
+      .col-lg-5(data-aos="zoom-in")
+        a.anexo.my-4(:href="obtenerLink('/downloads/Anexo_1_NORMA_TECNICA_COLOMBIANA.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo]. Normas Técnicas Colombianas 
+            p #[b Normas Técnicas Colombianas].  A continuación, podrá revisar de manera detallada cada una de las normas técnicas colombianas que regulan los procesos de producción.
 
     p.mt-5 Así mismo, existen otras normas como se observa en la tabla 1, que permiten que la materia prima e insumos para la fabricación de prendas de vestir sean de óptima calidad y como resultado permiten ofrecer un producto terminado con criterios de calidad en su confección y entrega al cliente. 
 
@@ -93,12 +98,12 @@
 
     p.mt-5 En definitiva, la norma GTC 230 guía de buenas prácticas en la confección, se constituye en el conjunto de requisitos generales de producción que permiten que cada uno de los procesos o subprocesos de una empresa se ejecuten de manera organizada y completa, para esto se debe tener en cuenta la calidad de las materias primas, insumos y procesos; todo esto con respecto al Instituto Colombiano de Normas Técnicas y Certificación.   
     .row.justify-content-center.align-items-center.mt-5
-      .col-lg-5
+      .col-lg-8(data-aos="zoom-in")
         a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_2_Proceso_de_Disenio_y_desarrollo_del_producto.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo]. Proceso de diseño y desarrollo del producto.
+            p #[b Proceso de diseño y desarrollo del producto]. En el anexo 2, ubicado en el material complementario podrá consultar la normatividad que regula el proceso de diseño y desarrollo del producto.  
 
 </template>
 
