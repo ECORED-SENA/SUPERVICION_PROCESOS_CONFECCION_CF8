@@ -16,7 +16,7 @@
             .cajon.color-acento-contenido.p-4
               .row.justify-content-center.align-items-center       
                 .col-lg-11
-                  p Es importante mencionar los principios de la calidad para desarrollar el control de esta:             
+                  p Es importante mencionar los #[b principios de la calidad] para desarrollar el control de esta:             
                   .list
                       .list__item
                           .list__item__icon
@@ -325,31 +325,31 @@
                     .list__item__number
                         span 1.
                 .list__txt 
-                    span Planificación: se establece un plan y programa de calidad, las técnicas y métodos a utilizar, muestra, lote.
+                    span #[b Planificación]: se establece un plan y programa de calidad, las técnicas y métodos a utilizar, muestra, lote.
             .list.mt-2
                 .list__item
                     .list__item__number
                         span 2.
                 .list__txt 
-                    span Alistamiento de los recursos: alistar instrumentos de medición como cintas métricas, calibradores, plantillas.
+                    span #[b Alistamiento de los recursos]: alistar instrumentos de medición como cintas métricas, calibradores, plantillas.
             .list.mt-2
                 .list__item
                     .list__item__number
                         span 3.
                 .list__txt 
-                    span Implementación de la técnica, se presentan o no defectos.
+                    span #[b Implementación de la técnica], se presentan o no defectos.
             .list.mt-2
                 .list__item
                     .list__item__number
                         span 4.
                 .list__txt 
-                    span Registros de mediciones y controles.
+                    span #[b Registros de mediciones y controles].
             .list.mt-2
                 .list__item
                     .list__item__number
                         span 5.
                 .list__txt 
-                    span Análisis y definición de acciones correctivas, análisis de causas de defectos.   
+                    span #[b Análisis y definición de acciones correctivas], análisis de causas de defectos.   
 
     .video.mt-5
       iframe(width="560" height="315" src="https://www.youtube.com/embed/yjTzSupLG64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
@@ -454,12 +454,6 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10 
-        h4(data-aos="fade-right") Enfoque científico
-        p(data-aos="fade-left") Evaluación de la calidad con evidencias y datos, es decir método científico.
-        .hr 
-
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10 
         h4(data-aos="fade-right") Mejora continua, Innovación y aprendizaje
         p(data-aos="fade-left") Todo proceso es susceptible de mejorar, no es sólo corregir sino actuar de forma proactiva. 
         .hr    
@@ -486,7 +480,7 @@
 
                   template(v-slot:imagen)
                     figure
-                      img.img-a.img-t(src='@/assets/ilustraciones/img45.png', alt='')
+                      img.img-a.img-t(src='@/assets/ilustraciones/img45.svg', alt='')
 
                   .tarjeta.color-acento-botones.p-3(x="35.6%" y="24%")
                     p.mb-2 #[b Planificar] (Plan):
@@ -523,7 +517,7 @@
 
                   template(v-slot:imagen)
                     figure
-                      img.img-a.img-t(src='@/assets/ilustraciones/img46.png', alt='')
+                      img.img-a.img-t(src='@/assets/ilustraciones/img46.svg', alt='')
 
                   .tarjeta.color-acento-botones.p-3(x="32%" y="24%")
                     p Tomar acciones apropiadas. 
@@ -636,73 +630,73 @@
       table
         caption Nota: Biblioteca SENA
         tr 
-          <td rowspan="10" style="background: white"> PLANEAR </td>        
+          <td rowspan="10" style="background: white; font-weight: bold; border-right: 1px solid #AFAFAF "> PLANEAR </td>        
         tr
-          td 1
-          td Identificar el área que requiere mejorar
+          td.br-tabble.tab-bold 1
+          td.br-tabble Identificar el área que requiere mejorar
           td Utilizar 5's y mapeo de flujo de valor. 
         
         tr
-          td 2
-          td Identificar/clarificar el objetivo KAIZEN
+          td.br-tabble.tab-bold 2
+          td.br-tabble Identificar/clarificar el objetivo KAIZEN
           td Mejorar servicio, reducir defectos, mejorar productividad, entre otros. 
 
         tr
-          td 3
-          td Identificar a los miembros del equipo KAIZEN
+          td.br-tabble.tab-bold 3
+          td.br-tabble Identificar a los miembros del equipo KAIZEN
           td Nombrar líder de equipo, miembros de la misma área y de diferente área.   
 
         tr
-          td 4
-          td Completar hoja de preparación del KAIZEN
+          td.br-tabble.tab-bold 4
+          td.br-tabble Completar hoja de preparación del KAIZEN
           td Realizar guion del desarrollo del evento, debe ser aprobado por líder de área.    
 
         tr
-          td 5
-          td Entender la situación actual
+          td.br-tabble.tab-bold 5
+          td.br-tabble Entender la situación actual
           td Documentar flujo de información, calcular TACKT time, diagrama espagueti, documentación.   
 
         tr
-          td 6
-          td Imaginar situación ideal
+          td.br-tabble.tab-bold 6
+          td.br-tabble Imaginar situación ideal
           td Producir al ritmo tackt time, introducir técnica POKA JOKE, eliminar tiempos de espera, analizar movimientos.    
 
         tr
-          td 7
-          td Cuantificar los resultados esperados
+          td.br-tabble.tab-bold 7
+          td.br-tabble Cuantificar los resultados esperados
           td Determinar mediciones del evento, calcular resultados esperados.    
 
         tr
-          td 8
-          td Desarrollar estrategia KAIZEN
+          td.br-tabble.tab-bold 8
+          td.br-tabble Desarrollar estrategia KAIZEN
           td Identificar obstáculos, utilizar simulaciones y pruebas.    
 
         tr
-          td 9
-          td Desarrollar plan de acciones KAIZEN
+          td.br-tabble.tab-bold 9
+          td.br-tabble Desarrollar plan de acciones KAIZEN
           td Documentar acciones, identificar recursos requeridos, establecer responsabilidades, fechas y tiempos.   
         tr 
-          <td rowspan="4"> HACER </td>   
+          <td rowspan="4" style="font-weight: bold; border-right: 1px solid #AFAFAF" > HACER </td>   
         tr
-          td 10
-          td Implementar el KAIZEN
+          td.br-tabble.tab-bold 10
+          td.br-tabble Implementar el KAIZEN
           td Desarrollar el evento según lo planeado, mejorar métodos, modificar layout, observar comportamientos, realizar cambios   
 
 
         tr
-          td 11
-          td Verificar los resultados de corto plazo
+          td.br-tabble.tab-bold 11
+          td.br-tabble Verificar los resultados de corto plazo
           td Seguimiento a los colaboradores, verificar progreso, seguimiento al proceso     
 
         tr
-          td 12
-          td Documentar actividades KAIZEN
+          td.br-tabble.tab-bold 12
+          td.br-tabble Documentar actividades KAIZEN
           td Preparar formatos, registrar información, realizar registros fotográficos    
 
         tr
-          td.bg-white VERIFICAR- ACTUAR
-          td 13
-          td Confirmar los resultados a largo plazo
+          td.bg-white.tab-bold.br-tabble VERIFICAR- ACTUAR
+          td.br-tabble.tab-bold 13
+          td.br-tabble Confirmar los resultados a largo plazo
           td Responsable del evento realizar seguimiento con programa, presentar resultados y estandarizar, sino da resultado volver a iniciar.                                                 
     .h4.mt-5(data-aos="fade-right") Six sigma
     p.mt-5 Es un modelo de gestión, se conoce por sus siglas en inglés DMAIC, el objetivo es el mejoramiento de los procesos; cuya traducción es asociada a las siguientes palabras:          
@@ -754,11 +748,12 @@
     p.mt-5 En cada fase se utilizan herramientas para el análisis y gráficos como: histogramas, diagrama causa efecto, Pareto, gráficos de tendencias, análisis de correlación, capacidad del proceso, gráficos de control, entre otros.    
 
     .titulo-segundo#t_5_3.mt-5
-      .h4(data-aos="fade-right") 5.3 Puntos y controles en el proceso de confección  
+      .h4(data-aos="fade-right") 5.3 Puntos y controles en el proceso de confección 
+    p.mt-5 Se debe establecer diferencia entre los puntos de control y los puntos de control crítico, para tener claridad en el control de calidad de la prenda. Una vez analizamos el flujo de los procesos mediante los diagramas de árbol y flujogramas, se determina en el proceso y en la prenda, los puntos a inspeccionar según su relevancia y así se establece clasificación. 
     .row.justify-content-center.align-items-center       
       .col-lg-10
         .cajon.color-acento-contenido.p-4
-          p.mb-0 Se debe establecer diferencia entre los puntos de control y los puntos de control crítico, para tener claridad en el control de calidad de la prenda. Una vez analizamos el flujo de los procesos mediante los diagramas de árbol y flujogramas, se determina en el proceso y en la prenda, los puntos a inspeccionar según su relevancia y así se establece clasificación.  
+          p.mb-0 #[b Puntos de control en confección de lote piloto:] el lote piloto son las unidades que se confeccionan con el fin de simular la producción de cierta referencia nueva. Es necesario una vez se desarrolla el producto nuevo, realizar simulaciones para prever fallas en la producción, la información proporcionada una vez se realice el lote piloto brinda confianza y señala las estrategias a efectuar en el momento de la producción de la prenda.  
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-5
         a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_8_Tabla_Militar.pdf')" target="_blank")
@@ -874,36 +869,36 @@
               td.text-center Ensayo
               td.text-center Norma
             tr
-              td Análisis cualitativo de fibras. 
+              td.tab-bold.br-tabble Análisis cualitativo de fibras. 
               td NTC 1213/AATCC 20/ASTMD 276 
 
             tr
-              td Análisis cuantitativo. 
+              td.tab-bold.br-tabble Análisis cuantitativo. 
               td NTC 481: 2012-12-12 <br>ASTMD 629:2008
 
 
             tr
-              td Coeficiente de fricción.
+              td.tab-bold.br-tabble Coeficiente de fricción.
               td ASTMD 3412
 
             tr
-              td Determinación de la densidad lineal (título). 
+              td.tab-bold.br-tabble Determinación de la densidad lineal (título). 
               td NTC 959
 
             tr
-              td Determinación de las materias extraíbles.
+              td.tab-bold.br-tabble Determinación de las materias extraíbles.
               td NTC 751
 
             tr
-              td Determinación de los rizos por unidad de longitud. 
+              td.tab-bold.br-tabble Determinación de los rizos por unidad de longitud. 
               td NTC 840 
 
             tr
-              td Determinación de la resistencia a la tracción y alargamiento de fibras individuales. 
+              td.tab-bold.br-tabble Determinación de la resistencia a la tracción y alargamiento de fibras individuales. 
               td NTC 959                   
 
             tr
-              td Libre de Formaldehído.  
+              td.tab-bold.br-tabble Libre de Formaldehído.  
               td ISO 14184-1:2011
 
         .row.justify-content-center.align-items-center.mt-5
@@ -1044,8 +1039,8 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
         h4(data-aos="fade-right") Piquetes y puntos
-        p(data-aos="fade-left") Existencia de puntos y piquetes, alineando las piezas y correspondo la unión de puntos y piquetes. 
- 
+        p(data-aos="fade-left")  Existencia de puntos y piquetes, alineando las piezas y realizando la unión de puntos y piquetes. 
+
         .hr  
 
     .row.justify-content-center.align-items-center.mt-5
@@ -1342,7 +1337,7 @@
             img.img-t.img-a.my-2(src='@/assets/ilustraciones/img54.svg', alt='')          
           .col-lg-10(data-aos="fade-left")
             h4 Ajuste de maquinaria 
-            p.mb-0 Mantenimiento de la máquina y uso de aditamentos, pies, guías y fólderes, agujas, altura de dientes, presión del pie prénsatela, enhebrado, devanado de hilo, tensión del hilo.
+            p.mb-0 Mantenimiento de la máquina y uso de aditamentos, pies, guías y fólderes, agujas, altura de dientes, presión del pie prensatela, enhebrado, devanado de hilo, tensión del hilo.
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10

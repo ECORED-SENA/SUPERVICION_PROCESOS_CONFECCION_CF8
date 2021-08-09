@@ -68,14 +68,11 @@
           .anexo__texto
             p #[b Enlace web]. A continuación, puede revisar las indicaciones de insumos con referencias como por ejemplo el tipo de hilos. 
 
-    .row.justify-content-center.align-items-center.mt-5       
+    .row.justify-content-center.align-items-stretch.mt-5       
       .col-lg-4
         img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img16.svg', alt='')      
-      .col-lg-6
-        .row.justify-content-center.align-items-center       
-          .col-lg-12
-            .cajon.color-acento-contenido.p-4
-              p.mb-0 Dentro de las funciones de un supervisor en procesos de confección está el velar porque cada uno de estos se haya dado y cuente con las especificaciones y orientaciones que permitan y faciliten el proceso de producción en planta para las prendas de vestir, ello asegura el cumplimiento en tiempos y requerimientos de calidad establecidos.  
+      .col-lg-6.cajon.color-acento-contenido.p-5.text-just
+        p.mb-0 Dentro de las funciones de un supervisor en procesos de confección está el velar porque cada uno de estos se haya dado y cuente con las especificaciones y orientaciones que permitan y faciliten el proceso de producción en planta para las prendas de vestir, ello asegura el cumplimiento en tiempos y requerimientos de calidad establecidos.  
 
     p.mt-5 Es importante tener presente los saberes adquiridos en cuanto a identificar el tipo de maquinaria y su respectivo funcionamiento, por ello en los videos de este módulo se encontrarán las operaciones básicas que pueden ser implementadas de manera genérica en las prendas como lo son bolsillos, ribetes, puños, etc.  
 
@@ -84,7 +81,7 @@
         .BorTit #[b 7 operaciones máquina plana industrial]    
         PasosA.color-acento-contenido.mt-5(tipo="l")
           div
-            p Operaciones básicas para el manejo en máquina plana una aguja Paso 1 Costuras rectas a ¼ pulgada: 
+            p.tab-bold Operaciones básicas para el manejo en máquina plana una aguja Paso 1 Costuras rectas a ¼ pulgada: 
             .row.justify-content-center.align-items-center.mt-3
               .col-lg-10(data-aos="fade-right")                
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=m6Bda8bTNxk" target="_blank")
@@ -94,7 +91,7 @@
                     p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 1 Costuras rectas a ¼ pulgada.
 
           div                            
-            p Operaciones básicas para el manejo en máquina plana una aguja Paso 2 Costuras a alforzas de ¼”:  
+            p.tab-bold Operaciones básicas para el manejo en máquina plana una aguja Paso 2 Costuras a alforzas de ¼”:  
             .row.justify-content-center.align-items-center.mt-3
               .col-lg-10(data-aos="fade-left")                
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=5vxh3RXCw8c" target="_blank")
@@ -104,7 +101,7 @@
                     p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 2 Costuras a alforzas de ¼”. 
 
           div                            
-            p Operaciones básicas para el manejo en máquina plana una aguja Paso 3 Costuras a alforzas de 1 16”: 
+            p.tab-bold Operaciones básicas para el manejo en máquina plana una aguja Paso 3 Costuras a alforzas de 1 16”: 
             .row.justify-content-center.align-items-center.mt-3
               .col-lg-10(data-aos="fade-right")              
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Sv7X27S7MSE" target="_blank")
@@ -114,7 +111,7 @@
                     p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 3 Costuras a alforzas de 1 16”. 
 
           div                            
-            p Operaciones básicas para el manejo en máquina plana una aguja Paso 4 Pegar bolsillos: 
+            p.tab-bold Operaciones básicas para el manejo en máquina plana una aguja Paso 4 Pegar bolsillos: 
             .row.justify-content-center.align-items-center.mt-3
               .col-lg-10(data-aos="fade-left")            
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=fUW6xK vpzs0" target="_blank")
@@ -124,7 +121,7 @@
                     p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 4 Pegar bolsillos.
 
           div                            
-            p Operaciones básicas para el manejo en máquina plana una aguja Paso 5 Bolsillo de ribete sencillo:
+            p.tab-bold Operaciones básicas para el manejo en máquina plana una aguja Paso 5 Bolsillo de ribete sencillo:
             .row.justify-content-center.align-items-center.mt-3
               .col-lg-10(data-aos="fade-right")         
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=wULIEdIahzE" target="_blank")
@@ -134,7 +131,7 @@
                     p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 5 Bolsillo de ribete sencillo.
 
           div                            
-            p Operaciones básicas para el manejo en máquina plana una aguja Paso 6 Bolsillo de ribete doble: 
+            p.tab-bold Operaciones básicas para el manejo en máquina plana una aguja Paso 6 Bolsillo de ribete doble: 
             .row.justify-content-center.align-items-center.mt-3
               .col-lg-10(data-aos="fade-left")           
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=4kT8atODsIQ" target="_blank")
@@ -144,7 +141,7 @@
                     p #[b Enlace web]. Operaciones básicas para el manejo en máquina plana una aguja Paso 6 Bolsillo de ribete doble. 
 
           div                            
-            p Operaciones básicas para el manejo en máquina plana una aguja Paso 7 Coser pechera sencilla:  
+            p.tab-bold Operaciones básicas para el manejo en máquina plana una aguja Paso 7 Coser pechera sencilla:  
             .row.justify-content-center.align-items-center.mt-3
               .col-lg-10(data-aos="fade-right")         
                 a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=V8PrD9bgvb8" target="_blank")
@@ -236,31 +233,31 @@
           td Proceso de plantillado fusionado y prehormado
         tr
           td
-          td Preparación de cuellos
+          td.tab-bold.br-tabble Preparación de cuellos
           td 1. Fusionar el cuello centrando las entretelas sobre la tela del cuello, dejando 1cm de margen de costura por contorno.<br><br>2. Coser el contorno a ½ cm en la parte de arriba del cuello, rematando costura al iniciar y al terminar.<br><br>3. Despuntar, desbastar o perfilar, la parte de la punta del cuello para afinar el acabado y que al voltearlo guarde simetría.<br><br>4. Voltear el cuello y con la ayuda de las tijeras o con un punzón, definir las puntas cuidando no picar la pieza.<br><br>5. Juntar las puntas y verificar la simetría antes de pespuntear el cuello.<br><br>6. Pespuntar el filo del cuello. Esta costura o pespunte puede variar según las especificaciones técnicas, a 1/16” o 1/ 4”. Rematar al inicio y al final del pespunte.
         tr
           td 1
-          td Preparación de banda o pie de cuello
+          td.tab-bold.br-tabble Preparación de banda o pie de cuello
           td 1. Planchar o fusionar la entretela al pie de cuello vista, por la parte de atrás emparejando de arriba.<br><br>2. Doblar la parte que quedó sin entretela para hacer el dobladillo del pie de cuello.<br><br>3. Colocar el pie de cuello forro con la vista hacia arriba. <br><br>4. Colocar el cuello con la vista hacia arriba. Colocar el pie de cuello vista con la vista hacia abajo<br><br>5. Verificar que las 3 marcas del centro de las piezas coincidan, es decir, cuello con pie vista y pie forro. <br><br>6. Realizar costura del centro hacia las orillas, primero una curva y después la otra, es decir, un lado y volteando el otro lado derecho.<br><br>7. Planchar la costura del pie del cuello y revisar que los 2 pies de cuello queden del mismo tamaño y las 2 puntas del cuello. <br><br>8. Verificar el ancho de puntas y la coincidencia de pie de cuello.<br><br>9. Pespuntar al borde o filo del pie de cuello, el pespunte se realiza a 1 /16” o 1/4 “o según especificaciones técnicas.
         tr
           td 2
-          td Preparación de la pechera, extensión de botonadura o cruce
+          td.tab-bold.br-tabble Preparación de la pechera, extensión de botonadura o cruce
           td 1. Doblar el delantero izquierdo(planchar) hacia el forro de la tela del lado de la línea del ojal y botón, dejando una costura de 4 cm.<br><br>2. Segundo doblez, planchar nuevamente de 4 cm.<br><br>3. Realizar un pespunte de ½ cm de la orilla del segundo doblez, del lado del delantero. No olvidar rematar siempre al inicio y al final de cada costura.<br><br>4. Desdoblar el delantero y hagan una sobrecostura de ½ cm en la orilla del primer doblez, quedando formada la perilla.<br><br>5. Doblar por la parte de la línea del ojal y botón, al delantero derecho, quedando a 2 ½ cm terminado.<br><br>6. Primer doblez, planchar el delantero derecho y doblar hacia dentro 1 cm, o hacia el forro.<br><br>7. Segundo doblez, enseguida doblar por la línea de las muescas 2 ½ cm, quedando el dobladillo dentro de la camisa y la vista hacia arriba. Coser el delantero al filo por los 2 ½ cm planchados con la vista hacia abajo, es decir, al filo del primer doblez para terminar el dobladillo.
         tr
           td 3
-          td Preparación y ensamble del bolsillo
+          td.tab-bold.br-tabble Preparación y ensamble del bolsillo
           td 1. Doblar a 1 cm y doblar nuevamente a 2 ½ cm, es decir, donde se hicieron las muescas en la parte de arriba del bolsillo.<br><br>2. Hacer un pespunte al orillo del dobladillo de 2 ½ cm.<br><br>3. Pegar bolsillo prehormado en los piquetes de la parte delantera izquierda de la camisa, realizando un pespunte a 1 /16 “al orillo del bolsillo y con remate en el inicio y final.
         tr
           td 4
-          td Preparación o ensamble de puño
+          td.tab-bold.br-tabble Preparación o ensamble de puño
           td 1.Fusionar los puños vista, posicionando la entretela con el pegamento por el revés de la tela de los puños vistas.<br><br>2. Dobladillar 1 cm la parte que quedó sin entretela para hacer el dobladillo.<br><br>3. Colocar el puño forro con la vista hacia arriba.<br><br>4. Colocar el puño vista hacia abajo, encima del puño forro.<br><br>5. Coser el contorno del puño dejando ½ cm de pestaña en la parte de arriba.<br><br>Nota: Rematar al principio y al final de cada costura y coser de la misma manera el otro puño.<br><br>6. Si el puño es de puntas redondas, tengan mucho cuidado al pasar la costura para que no pierdan la forma.<br><br>7. Voltear los puños, revisar que las curvas de los puños queden iguales, un lado contra el otro.<br><br>8. Planchar los puños y pasar un pespunte, alrededor de la orilla de los puños para mejor acabado. Este pespunte puede variar según las especificaciones técnicas 1/16 “o 1/4“. Este pespunte regularmente es igual al del cuello.
         tr
           td 5
-          td Preparación de espalda
+          td.tab-bold.br-tabble Preparación de espalda
           td 1. Pegar marquilla si se tiene al centro de la almilla o canesú forro por el derecho de la tela. Canesú o almilla forro con la vista tela hacia arriba<br><br>2. Coser el pliegue o tablón de la espalda.<br><br>3. Doblar las dos marcas de la espalda.<br><br>4. Cuidar que coincidan con la marca o piquetes del medio, hacer una costura de ½ cm encima del tablón o pliegue o fuelle, en la parte alta de la espalda, no olvidar rematar al inicio y al final de la costura.<br><br>5. Colocar el forro de la bata con la vista hacia arriba, colocar la espalda con la vista hacia arriba, colocar la bata vista con la vista de la tela hacia abajo.<br><br>6. Juntar las 3 piezas para que queden parejas.<br><br>7. Unir con una costura dejando 1 cm de pestaña, rematando al inicio y al final.<br><br>8. Pespunte pasando la costura en la orilla del canesú.
         tr
           td 6
-          td Preparación de portañuela
+          td.tab-bold.br-tabble Preparación de portañuela
           td 1. Doblar y planchar las portañuelas a 1 cm de ambos lados de las aletillas hacia el revés de la tela.<br><br>2. Coser primero manga y portañuela: Por uno de los lados planchados, pongan la manga con vista hacia abajo, y aletilla vista hacia abajo con una pestaña de 1 cm al pasar la costura por la “y” o marca.<br><br>3. Voltear la portañuela y la manga y hagan sobrecostura, al filo de la aletilla, teniendo cuidado que la costura de abajo no se salga.<br><br>4. Encimar la aletilla para formar el pico, de tal manera que se identifique aletilla sobre aletilla. Debe quedar el pico de aletilla sobre aletilla para hacer el pespunte.<br><br>5. El pico de la portañuela se forma con los dedos acomodando la parte de inferior con la parte superior se forma el pico.<br><br>6. Pasar pespunte al filo u orillo del pico de la portañuela y continuar hasta los 3 cm hacia abajo.<br><br>7. Cruzar la aletilla y terminar el pespunte donde empezaron.                               
 
     h4.mt-5(data-aos="fade-right") Confección de blusa camisera
@@ -342,7 +339,7 @@
           p #[b Paso 2. Preparar cuello]    
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10
-              p Para la preparación del cuello de la blusa camisera, se debe atener en cuenta algunas recomendaciones, que le permitirán un producto con mejores acabados, para esto le invito a ver el siguiente vídeo en donde encontrará de manera detallada todo el procedimiento de la confección del cuello.
+              p Para la preparación del cuello de la blusa camisera, se debe tener en cuenta algunas recomendaciones, que le permitirán un producto con mejores acabados, para esto le invito a ver el siguiente vídeo en donde encontrará de manera detallada todo el procedimiento de la confección del cuello.
               p En el siguiente vídeo podrá revisar este paso a paso                
               a.anexo.mt-4.mb-lg-0(href="https://www.youtube.com/watch?v=jwt4avwp6y0&list=PLkc5n6npRWkink2WtHYTQCrNkLrWX2L12&index=5" target="_blank")
                 .anexo__icono
@@ -352,7 +349,7 @@
 
       .row.justify-content-center.align-items-center(titulo="Paso 3") 
         .col-lg-10 
-          p #[b Paso 3]. Preparar manga coser portañuela y puños:           
+          p #[b Paso 3. Preparar manga coser portañuela y puños:]           
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10 
               p Para la preparación de la manga, requiere unos sencillos pasos que involucran piezas claves como el sesgo, la portañuela y, los puños, recordando que estos últimos debes estar previamente prehormado. 
@@ -364,7 +361,7 @@
                   p #[b Enlace web]. Preparar manga, coser portapañuelos y puños.               
       .row.justify-content-center.align-items-center(titulo="Paso 4") 
         .col-lg-10 
-          p #[b Paso 4]. Preparar delantero, coser pinzas y pespuntear pechera:
+          p #[b Paso 4. Preparar delantero, coser pinzas y pespuntear pechera:]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10 
               p La preparación de los delanteros consiste en marcar previamente las pinzas, posteriormente coser.
@@ -379,7 +376,7 @@
 
       .row.justify-content-center.align-items-center(titulo="Paso 5") 
         .col-lg-10 
-          p #[b Paso 5]. Preparar posterior, coser pinzas:         
+          p #[b Paso 5. Preparar posterior, coser pinzas: ]        
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10
               p En el posterior las preparaciones del posterior consiste en coser las pinzas, para seguir paso a paso esta confección, te invito a ver el siguiente vídeo:                
@@ -390,7 +387,7 @@
                   p #[b Enlace web]. Preparar posterior, coser pinzas.                
       .row.justify-content-center.align-items-center(titulo="Paso 6") 
         .col-lg-10 
-          p #[b Paso 6]. Unir por hombros:  
+          p #[b Paso 6. Unir por hombros:  ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10 
               p El ensamble se inicia con la operación de unir hombros, es importante tener en cuenta la alineación de piezas. 
@@ -403,7 +400,7 @@
 
       .row.justify-content-center.align-items-center(titulo="Paso 7") 
         .col-lg-10 
-          p #[b Paso 7]. Pespuntar hombros:           
+          p #[b Paso 7. Pespuntar hombros:           ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10  
               p Se requiere de un pie 1/16 compensador, derecho, según se indica en la firma técnica de este procedimiento.
@@ -415,7 +412,7 @@
                   p #[b Enlace web]. Pespuntar hombros.              
       .row.justify-content-center.align-items-center(titulo="Paso 8") 
         .col-lg-10 
-          p #[b Paso 8]. Pegar cuello:     
+          p #[b Paso 8. Pegar cuello:     ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10
               p Debe marcarse tenuemente alrededor del cuello, que nos indique en donde se deberá pasar la puntada y pegar la pieza, teniendo especial cuidado en ser prolijo en la tarea y que coincidan con los medios de la pieza de destino.
@@ -428,7 +425,7 @@
 
       .row.justify-content-center.align-items-center(titulo="Paso 9") 
         .col-lg-10 
-          p #[b Paso 9]. Pespuntar cuello:          
+          p #[b Paso 9. Pespuntar cuello:          ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10 
               p La marquilla, se pegará en el centro del cuello, posteriormente se une la pieza, teniendo especial cuidado de ocultar los bordes de la costura dentro del cuello.
@@ -441,7 +438,7 @@
                   p #[b Enlace web]. Pespuntar cuello.              
       .row.justify-content-center.align-items-center(titulo="Paso 10") 
         .col-lg-10 
-          p #[b Paso 10]. Pegar mangas:     
+          p #[b Paso 10. Pegar mangas:     ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10
               p La unión de las mangas en la blusa, requiere que se preste especial atención en pegar derecho con derecho de la tela, para esto tenga en cuenta que debe de coincidir la parte del posterior de la manga (portañuela), con el posterior de la blusa
@@ -456,7 +453,7 @@
 
       .row.justify-content-center.align-items-center(titulo="Paso 11") 
         .col-lg-10 
-          p #[b Paso 11]. Pespuntar mangas:           
+          p #[b Paso 11. Pespuntar mangas:           ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10
               p Para iniciar el pespunte de las mangas, se debe tumbar hacia el cuerpo de la blusa, y luego usando el pie compensado derecho, se da inicio al pespunte con remate al inicio y respetando la curva que tiene la manga. 
@@ -470,7 +467,7 @@
                   p #[b Enlace web]. Pespuntar mangas.               
       .row.justify-content-center.align-items-center(titulo="Paso 12") 
         .col-lg-10 
-          p #[b Paso 12]. Cerrar costados:     
+          p #[b Paso 12. Cerrar costados:     ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10
               p La unión por costados de la blusa, debe tenerse en cuenta que el derecho filete debe quedar por el delantero, se alinean las piezas y se revisa que coincidan los piquetes de costura. Este paso requiere especial atención a los detalles.
@@ -484,7 +481,7 @@
 
       .row.justify-content-center.align-items-center(titulo="Paso 13") 
         .col-lg-10 
-          p #[b Paso 13]. Pegar puños:           
+          p #[b Paso 13. Pegar puños:           ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10 
               p Con el puño previamente preparado, vamos a pegarlo a la manga por la marcación que se ha realizado, teniendo en cuenta que no se recoja la tela. 
@@ -497,7 +494,7 @@
                   p #[b Enlace web]. Pegar puños.                
       .row.justify-content-center.align-items-center(titulo="Paso 14") 
         .col-lg-10 
-          p #[b Paso 14]. Pespuntar puño:     
+          p #[b Paso 14. Pespuntar puño:     ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10
               p Pespuntar el puño, se inicia empatando la costura en donde se había anteriormente despuntado el puño (paso 13), para esto se requiere el pie de pespunte compensado o de guía fija de 1/16. Tal y como se indica en el vídeo del paso a paso que encuentra a continuación:                
@@ -509,7 +506,7 @@
 
       .row.justify-content-center.align-items-center(titulo="Paso 15") 
         .col-lg-10 
-          p #[b Paso 15]. Dobladillar ruedo:           
+          p #[b Paso 15. Dobladillar ruedo:           ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10 
               p En el ensamble, dobladillar el ruedo se utiliza el pie compensado de 1/16 lado derecho.
@@ -523,7 +520,7 @@
                   p #[b Enlace web]. Dobladillar ruedo.                
       .row.justify-content-center.align-items-center(titulo="Paso 16") 
         .col-lg-10 
-          p #[b Paso 16]. Marcar ojales y ojalar:     
+          p #[b Paso 16. Marcar ojales y ojalar:     ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10 
               p Las operaciones de terminado se inicia con la marcación de los ojales. Para esto hacemos uso de la plantilla, de esta forma marcar e iniciar el ciclo del ojal.
@@ -536,7 +533,7 @@
 
       .row.justify-content-center.align-items-center(titulo="Paso 17") 
         .col-lg-10 
-          p #[b Paso 17]. Marcar botones y botonar:           
+          p #[b Paso 17. Marcar botones y botonar:           ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10 
               p Antes de pegar los botones es necesario marcar el lugar exacto en donde irá el botón, para esto es necesario ayudarnos de los ojales, tanto en el cuerpo de la camisa como en los puños de esta.
@@ -548,7 +545,7 @@
                   p #[b Enlace web]. Marcar botones y botonar.                
       .row.justify-content-center.align-items-center(titulo="Paso 18") 
         .col-lg-10 
-          p #[b Paso 18]. Limpiar, revisar y planchar:     
+          p #[b Paso 18. Limpiar, revisar y planchar:     ]
           .row.justify-content-center.align-items-center.mt-3
             .col-lg-10 
               p La últimas operaciones consisten en pulir y limpiar nuestra prenda, retirando hebras o cortando de raíz aquellas que hayan quedado, posteriormente planchar y empacar.
@@ -1006,7 +1003,7 @@
           td.text-center Preparación de las piezas
           td.text-center Proceso de plantillado fusionado y pre-hormado
         tr
-          td Montaje de cierre, cremallera, corredera o zipper (aletilla y aletillón). 
+          td.tab-bold.br-tabble Montaje de cierre, cremallera, corredera o zipper (aletilla y aletillón). 
           td Para el montaje de una cremallera con sistema de aletilla y aletillón, es necesario identificar cada una de las piezas y tener en cuenta que los acabados y los pasos para el ensamble y el desarrollo pueden variar.
             a(data-aos="zoom-in").anexo.mt-3.mb-lg-0(href="https://www.youtube.com/watch?v=4pMSfzpnmYg&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
               .anexo__icono
@@ -1014,13 +1011,13 @@
               .anexo__texto
                 p #[b Enlace web]. Montaje de Cremallera - Aletilla y Aletillón.
         tr
-          td Preparación de bolsillos. 
+          td.tab-bold.br-tabble Preparación de bolsillos. 
           td En la elaboración de bolsillos, existen diferentes tipos, formas y cantidad de piezas que permiten tener un óptimo desarrollo de la operación, es necesario identificar el tipo de prenda, material y calidad con la que se debe desarrollar la prenda, cada uno de estos elementos varían otorgando más operaciones.
         tr
-          td Bolsillo de ribete sencillo.
+          td.tab-bold.br-tabble Bolsillo de ribete sencillo.
           td Existen diferentes tipos de bolsillos de ribete, de igual manera infinidad de formas para confeccionarlos, se debe tener en cuenta que su orden varía dependiendo el tipo de complemento del bolsillo.
         tr
-          td Montaje de Pretina.
+          td.tab-bold.br-tabble Montaje de Pretina.
           td
 
     .row.justify-content-center.align-items-center.mt-5
@@ -1043,22 +1040,25 @@
       table
         caption Nota: Biblioteca SENA
         tr
-          td Operaciones preparación
+          td.tab-bold.br-tabble Operaciones preparación
           td Pechera, cuello, bolsillo entre otras.
         tr
-          td Operaciones ensamble 
+          td.tab-bold.br-tabble Operaciones ensamble 
           td Unir por hombros, montar mangas, cerrar por costados, dobladillar ruedo, entre otras.
         tr
-          td Operaciones de terminados
+          td.tab-bold.br-tabble Operaciones de terminados
           td Ojalar, botonar, revisar, planchar, empacar, entre otras.
 
     .h4(data-aos="fade-right") Confección de camiseta tipo polo
-    .row.justify-content-center.align-items-center
-      .col-lg-6
-        .cajon.color-acento-contenido.p-5
-          p Un polo es una prenda de punto para el tronco que tiene la misma forma que una camiseta o playera, pero además tiene cuello, llegando también hasta la cintura y que puede tener manga larga o corta. Típicamente tiene una abertura delantera con dos o tres botones para ajustar el cuello y puede tener un bolsillo e incluso sustituir los botones por una cremallera. Esta fue ideada en el siglo XX para uniformar a los equipos que practicaban deporte.
-          p En el siguiente paso a paso, podrá encontrar una clara orientación para la fabricación de éste tipo de prenda.
-          p.mb-0 ¡Bienvenido!      
+    .row.justify-content-center.align-items-stretch
+      .col-lg-6.text-just.cajon.color-acento-contenido.p-5.img-border-y
+        p.mb-0 Un polo es una prenda de punto para el tronco que tiene la misma forma que una camiseta o playera, pero además tiene cuello, llegando también hasta la cintura y que puede tener manga larga o corta. Típicamente tiene una abertura delantera con dos o tres botones para ajustar el cuello y puede tener un bolsillo e incluso sustituir los botones por una cremallera. Esta fue ideada en el siglo XX para uniformar a los equipos que practicaban deporte.
+          br
+          br 
+          |En el siguiente paso a paso, podrá encontrar una clara orientación para la fabricación de éste tipo de prenda.
+          br
+          br
+          |¡Bienvenido!      
       .col-lg-6
         img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img68.png', alt='')      
     LineaTiempoC.color-acento-contenido.mt-5
@@ -1318,28 +1318,31 @@
       table
         caption Nota: Biblioteca SENA
         tr
-          td Operaciones preparación
+          td.tab-bold.br-tabble Operaciones preparación
           td Colocar bolsillo lateral, bolsillos posteriores, unir forro entre otras.
         tr
-          td Operaciones ensamble 
+          td.tab-bold.br-tabble Operaciones ensamble 
           td Unir por entrepierna, unir por costados, pegar elástico incluyendo forro, dobladillar botas entre otras.
         tr
-          td Operaciones de terminados
+          td.tab-bold.br-tabble Operaciones de terminados
           td Revisar, empacar entre otras.                                              
 
     .h4(data-aos="fade-right") Confección de pantalón sudadera 
 
-    .row.justify-content-center.align-items-center.mt-5
+    .row.justify-content-center.align-items-stretch.mt-5
       .col-lg-6
         img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img69.png', alt='')     
-      .col-lg-6.cajon.color-acento-botones.p-5
-        p Los #[b pantalones deportivos] son un tipo de pantalón diseñado para practicar actividad deportiva, o bien, para brindar comodidad al descansar. También son usados en otros ámbitos como ropa casual.
-
-        p En Colombia les conoce como "sudadera o pantalón sudadera", en Chile #[i buzo], en Ecuador como #[i calentador] y en Venezuela como #[i mono].
-
-        p Esperamos que el paso a paso que encontrará a continuación, oriente la confección de esta prenda.
-
-        p.mb-0 ¡Bienvenido!      
+      .col-lg-6.cajon.color-acento-botones.p-5.text-just.img-border-y
+        p.mb-0 Los #[b pantalones deportivos] son un tipo de pantalón diseñado para practicar actividad deportiva, o bien, para brindar comodidad al descansar. También son usados en otros ámbitos como ropa casual.
+          br
+          br
+          |En Colombia les conoce como "sudadera o pantalón sudadera", en Chile #[i buzo], en Ecuador como #[i calentador] y en Venezuela como #[i mono].
+          br
+          br
+          |Esperamos que el paso a paso que encontrará a continuación, oriente la confección de esta prenda.
+          br
+          br
+          | ¡Bienvenido!      
 
     LineaTiempoC.color-acento-contenido.mt-5
       .row.justify-content-center.align-items-center(titulo="Paso 1")

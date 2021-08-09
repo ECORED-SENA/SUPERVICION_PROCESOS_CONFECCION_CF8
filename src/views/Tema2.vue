@@ -179,7 +179,7 @@
         .row.justify-content-center.align-items-center.mt-3
           .col-lg-12                      
             figcaption Nota: Singer (2014) 
-
+    p.mt-5 Si la labor en la confección implica estar de pie para la realización de alguna labor contemplada en la ruta operacional se sugiere como en la figura 4: 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-9.bg-3.p-5
         .row.justify-content-center.align-items-center
@@ -210,7 +210,8 @@
 
         .row.justify-content-center.align-items-center.mt-3
           .col-lg-12                      
-            figcaption Nota: Singer (2014)  
+            figcaption Nota: Singer (2014) 
+    P.mt-5 Si la labor implica levantar algún peso es importante de igual manera tener presente lo ilustrado en la figura 5:
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-9.bg-3.p-5
         .row.justify-content-center.align-items-center
@@ -253,42 +254,42 @@
           .col-lg-2
             img.img-t.img-a.my-2(data-aos="fade-right")(src='@/assets/ilustraciones/img6.svg', alt='')           
           .col-lg-10(data-aos="fade-left")
-            p.mb-0 Aumento de fatiga.
+            p.tab-bold.mb-0 Aumento de fatiga.
         .hr    
 
         .row.justify-content-center.align-items-center.mt-5
           .col-lg-2
             img.img-t.img-a.my-2(data-aos="fade-right")(src='@/assets/ilustraciones/img7.svg', alt='')           
           .col-lg-10(data-aos="fade-left")
-            p.mb-0 Aumento en accidentes laborales en los espacios de trabajo.
+            p.tab-bold.mb-0 Aumento en accidentes laborales en los espacios de trabajo.
         .hr  
 
         .row.justify-content-center.align-items-center.mt-5
           .col-lg-2
             img.img-t.img-a.my-2(data-aos="fade-right")(src='@/assets/ilustraciones/img8.svg', alt='')           
           .col-lg-10(data-aos="fade-left")
-            p.mb-0 Enfermedades profesionales.
+            p.tab-bold.mb-0 Enfermedades profesionales.
         .hr  
 
         .row.justify-content-center.align-items-center.mt-5
           .col-lg-2
             img.img-t.img-a.my-2(data-aos="fade-right")(src='@/assets/ilustraciones/img9.svg', alt='')           
           .col-lg-10(data-aos="fade-left")
-            p.mb-0 Tensión nerviosa.
+            p.tab-bold.mb-0 Tensión nerviosa.
         .hr  
 
         .row.justify-content-center.align-items-center.mt-5
           .col-lg-2
             img.img-t.img-a.my-2(data-aos="fade-right")(src='@/assets/ilustraciones/img10.svg', alt='')           
           .col-lg-10(data-aos="fade-left")
-            p.mb-0 Disminución en la producción y resultados.
+            p.tab-bold.mb-0 Disminución en la producción y resultados.
         .hr  
 
         .row.justify-content-center.align-items-center.mt-5
           .col-lg-2
             img.img-t.img-a.my-2(data-aos="fade-right")(src='@/assets/ilustraciones/img11.svg', alt='')           
           .col-lg-10(data-aos="fade-left")
-            p.mb-0 Insatisfacción, desinterés, etc.
+            p.tab-bold.mb-0 Insatisfacción, desinterés, etc.
 
     p.mt-5 Estos factores pueden incidir directamente en la baja de la producción y por ende afectar a la empresa a nivel general, si bien la producción es importante, se debe tener presente que el principal recurso y más importante es el humano y se debe priorizar su bienestar. Por ello se deben tener presente las condiciones que a continuación se describen.
 
@@ -317,19 +318,19 @@
                   td.text-center Clase de actividad
                   td.text-center Intensidad de iluminación recomendada
                 tr
-                  td Recinto destinado solo a estancia orientación
+                  td.tab-bold.br-tabble Recinto destinado solo a estancia orientación
                   td 60 lux 
                 tr
-                  td Trabajos en los que el ojo debe percibir grandes detalles con elevados contrastes
+                  td.tab-bold.br-tabble Trabajos en los que el ojo debe percibir grandes detalles con elevados contrastes
                   td 120-150  lux
                 tr
-                  td Actividades que hacen necesario el reconocer detalles con reducidos contrastes
+                  td.tab-bold.br-tabble Actividades que hacen necesario el reconocer detalles con reducidos contrastes
                   td 500-700 lux
                 tr
-                  td Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos
+                  td.tab-bold.br-tabble Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos
                   td 1000-5100 lux 
                 tr
-                  td Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos
+                  td.tab-bold.br-tabble Trabajos de precisión que requieren un reconocimiento de detalles muy precisos con unos contrastes muy reducidos
                   td 2000-3000 lux
 
       .py-3.py-md-4(titulo="Ventilación")

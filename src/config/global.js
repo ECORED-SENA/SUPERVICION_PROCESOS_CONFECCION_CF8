@@ -344,6 +344,12 @@ export default {
         'https://www.youtube.com/watch?app=desktop&v=g7nLMKAMVVQ&ab_channel=informativos',
     },
     {
+      texto: 'Informativos.  (2012).  Ensamble de camisa. [video]. Youtube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=xD1u53N8sWQ&ab_channel=LaCosturadiy',
+    },
+    {
       texto:
         'Gutiérrez, B.  (2019).  Confección de pantalón para caballero.  [video]. Youtube. ',
       tipo: 'Video',
@@ -462,7 +468,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Yenny Patricia Ulloa Villamizar',
+        nombre: 'Rafael Augusto Mantilla López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

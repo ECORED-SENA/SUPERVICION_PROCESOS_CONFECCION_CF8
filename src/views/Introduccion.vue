@@ -15,7 +15,7 @@
     .row.justify-content-center.align-items-center       
       .col-lg-10
         .cajon.color-acento-contenido.p-4
-          p.mb-0 Dentro todos estos procesos y lineamientos es indispensable entender que la confección de una prenda no es el proceso final, ya que esto se logrará una vez se aprueben los procesos de revisión de acuerdo con criterios técnicos y de calidad para llegar a la entrega del producto.    
+          p.mb-0 Dentro de todos estos procesos y lineamientos es indispensable entender que la confección de una prenda no es el proceso final, ya que esto se logrará una vez se aprueben los procesos de revisión de acuerdo con criterios técnicos y de calidad para llegar a la entrega del producto.    
 </template>
 
 <script>

@@ -8,17 +8,16 @@
       h1(data-aos="zoom-in-right") Normas técnicas para la confección de prendas de vestir
     
     p El ensamble de prendas de vestir a través de los años se ha realizado de diferentes formas en las empresas, sin embargo, existen normas técnicas que ayudan a entender la construcción de las prendas en un ambiente óptimo de fabricación, de recursos humanos y de materiales e insumos; este proceso de ensamble con las normas ayuda a crear productos con un criterio de calidad y  entrega oportuna a los clientes; así pues que la programación y la planeación de la producción se combinan con la normatividad, y las empresas de confección desarrollan sistemas de producción capaces de competir a nivel nacional e internacional con otras que prestan el mismo servicio. El perfeccionamiento de este proceso evita reprocesos en las plantas tanto a nivel operativo, como administrativo; es aquí donde la guía de buenas prácticas en la confección de prendas de vestir resume las normas a tener en cuenta para la fabricación de productos que cuenten con los requisitos elegidos por el cliente desde la presentación de los prototipos en diseño, hasta la entrega final del producto. En definitiva, el proceso cuenta con un seguimiento y medición de cada paso a paso, para su posterior verificación del cumplimento hacia el cliente. 
-    .row.justify-content-center.align-items-center.mt-5       
+    .row.justify-content-center.align-items-stretch.mt-5       
       .col-lg-4
         img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img2.svg', alt='')      
-      .col-lg-6
-        .row.justify-content-center.align-items-center       
-          .col-lg-12
-            .cajon.color-acento-contenido.p-4
-              p #[b Norma GTC 230]
-              p.mb-0 La norma GTC 230 es una guía para las buenas prácticas en la confección de prendas de vestir (ICONTEC, 2019), la cual se creó a través de un comité técnico de textiles, en el cual participaron varias empresas de Colombia, como centros de formación del SENA, universidades, hilanderías, lavanderías,  empresas de confección y textilerías.  
+      .col-lg-6.cajon.color-acento-contenido.p-5.text-just
+        p #[b Norma GTC 230] 
+          br 
+          br
+          |La norma GTC 230 es una guía para las buenas prácticas en la confección de prendas de vestir (ICONTEC, 2019), la cual se creó a través de un comité técnico de textiles, en el cual participaron varias empresas de Colombia, como centros de formación del SENA, universidades, hilanderías, lavanderías,  empresas de confección y textilerías.  
 
-    p.mt-5 Es relevante conocer el paso a paso de un proceso productivo con el fin de ofrecerle al cliente un proceso con criterios de calidad,  las buenas prácticas en la confección deben ser tanto de quien presta el servicio como de quien lo recibe, en este caso el cliente;  es por esto que el Instituto Colombiano de Normas Técnicas y Certificación- ICONTEC ha puesto a disposición tanto del confeccionista como del cliente varias normas de prendas de vestir de pantalón, camisa, 
+    p.mt-5 Es relevante conocer el paso a paso de un proceso productivo con el fin de ofrecerle al cliente un proceso con criterios de calidad,  las buenas prácticas en la confección deben ser tanto de quien presta el servicio como de quien lo recibe, en este caso el cliente;  es por esto que el Instituto Colombiano de Normas Técnicas y Certificación- ICONTEC ha puesto a disposición tanto del confeccionista como del cliente varias normas de prendas de vestir de pantalón, camisa, brasier, panty y bóxer;  identificadas así: 
     
     .row.justify-content-center.align-items-center.mt-5
       .col-10(data-aos="flip-up")    
@@ -63,37 +62,37 @@
           td.text-center Norma
           td.text-center Tipo de Norma
         tr
-          td NTC 228 
+          td.tab-bold.br-tabble NTC 228 
           td Textiles, Determinación del ancho de las telas. 
         tr
-          td NTC 2567 
+          td.tab-bold.br-tabble NTC 2567 
           td Textiles, telas de tejido plano y tejido de punto, clasificación por defectos. 
         tr
-          td NTC 230 
+          td.tab-bold.br-tabble NTC 230 
           td Textiles, telas de tejido plano. Método para la medición de la masa por unidad de longitud y de la masa por unidad de área.
         tr
-          td NTC 481 
+          td.tab-bold.br-tabble NTC 481 
           td Textiles. Análisis cuantitativo de fibras. 
         tr
-          td NTC 703-1 
+          td.tab-bold.br-tabble NTC 703-1 
           td Textiles, Telas de tejido plano y telas de tejido de punto. Requisitos generales. 
         tr
-          td NTC 703-2 
+          td.tab-bold.br-tabble NTC 703-2 
           td Textiles, Telas de tejido plano. Requisitos específicos. 
         tr
-          td NTC 703-3 
+          td.tab-bold.br-tabble NTC 703-3 
           td Textiles, Telas de tejido de punto. Requisitos específicos. 
         tr
-          td NTC 2512 
+          td.tab-bold.br-tabble NTC 2512 
           td Confecciones, Cierres de cremallera. 
         tr
-          td NTC 2510
+          td.tab-bold.br-tabble NTC 2510
           td Textiles y confecciones. Botones de poliéster. 
         tr
-          td NTC 2089 
+          td.tab-bold.br-tabble NTC 2089 
           td Hilos de algodón para coser 
         tr
-          td NTC 5872 
+          td.tab-bold.br-tabble NTC 5872 
           td Textiles Hilos de coser industriales fabricados, total o parcialmente, a partir de fibras sintéticas.
 
     p.mt-5 En definitiva, la norma GTC 230 guía de buenas prácticas en la confección, se constituye en el conjunto de requisitos generales de producción que permiten que cada uno de los procesos o subprocesos de una empresa se ejecuten de manera organizada y completa, para esto se debe tener en cuenta la calidad de las materias primas, insumos y procesos; todo esto con respecto al Instituto Colombiano de Normas Técnicas y Certificación.   
