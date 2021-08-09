@@ -60,13 +60,6 @@
         .row.justify-content-center.align-items-center.mt-3
           .col-lg-11                     
             figcaption Nota: Lara (2017).   
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-5(data-aos="zoom-in")
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=Hx2TNdWU48g" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p #[b Enlace web]. A continuación, puede revisar las indicaciones de insumos con referencias como por ejemplo el tipo de hilos. 
 
     .row.justify-content-center.align-items-stretch.mt-5       
       .col-lg-4
@@ -114,7 +107,7 @@
             p.tab-bold Operaciones básicas para el manejo en máquina plana una aguja Paso 4 Pegar bolsillos: 
             .row.justify-content-center.align-items-center.mt-3
               .col-lg-10(data-aos="fade-left")            
-                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=fUW6xK vpzs0" target="_blank")
+                a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/embed/fUW6xKvpzs0" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
