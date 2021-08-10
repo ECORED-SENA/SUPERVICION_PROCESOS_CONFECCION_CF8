@@ -66,7 +66,7 @@
                       .list__txt 
                           span Establecer la ruta de la calidad.          
       .col-lg-5
-        img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img28.png', alt='')  
+        img.img-t.img-a.my-2(data-aos="zoom-in")(src='@/assets/ilustraciones/img28.svg', alt='')  
 
     p.mt-5 Estas acciones se ejecutan con el fin de permutar a la empresa hacia la calidad como se muestra en la figura 15.
     .row.justify-content-center.align-items-center.mt-5
@@ -971,39 +971,45 @@
             p #[b Anexo]. Códigos de defectos (denim, casual, militar, work) 
 
     .h4.mt-5(data-aos="fade-right") Control de Calidad en patronaje
+    .row.justify-content-center.align-items-stretch.mt-5 
+      .col-lg-6.cajon.color-acento-botones.text-just.p-4
+        p.mb-0 El control de los procesos es importante comprender cuales son las variaciones en las características del producto, encontrar las causas y tomar las decisiones para controlar la variabilidad, eliminando los errores, estandarizando el proceso y establecer mejoras para tener una variabilidad controlada.    
+      .col-lg-6
+        p En el proceso de patronaje la persona responsable del patronaje de la prenda, junto con el auditor de calidad realizan la revisión del paquete de moldes o patrones que comprenden la pieza, es importante revisarlos en físico, aunque se desarrolle el patrón digital.
 
-    p.mt-5 El control de los procesos es importante comprender cuales son las variaciones en las características del producto, encontrar las causas y tomar las decisiones para controlar la variabilidad, eliminando los errores, estandarizando el proceso y establecer mejoras para tener una variabilidad controlada.    
-
-    p En el proceso de patronaje la persona responsable del patronaje de la prenda, junto con el auditor de calidad realizan la revisión del paquete de moldes o patrones que comprenden la pieza, es importante revisarlos en físico, aunque se desarrolle el patrón digital.
-
-    p Los productos tienen variables y atributos. Las variables son características cuantitativas y los atributos son las características cualitativas. Los requisitos además están clasificados de la siguiente manera:
+        p.mb-0 Los productos tienen variables y atributos. Las variables son características cuantitativas y los atributos son las características cualitativas. Los requisitos además están clasificados de la siguiente manera:
 
     .row.justify-content-center.align-items-stretch
       .col-lg-3(data-aos="zoom-in")
         .row.justify-content-center.align-items-stretch.mt-5
           .col-lg-11.border-bg-3.px-0
-            p.p-3.text-center.bg-2 #[b Explícitos] 
+            p.p-3.text-center.bg-2_1 #[b Explícitos] 
               p.p-3 Declarados por el cliente, según expectativas del cliente. 
 
       .col-lg-3(data-aos="zoom-in")
         .row.justify-content-center.align-items-stretch.mt-5
           .col-lg-11.border-bg-3.px-0
-            p.p-3.text-center.bg-2 #[b Implícitos]
+            p.p-3.text-center.bg-2_1 #[b Implícitos]
             p.p-3 Necesarios para que cumplan función.
 
 
       .col-lg-3(data-aos="zoom-in")
         .row.justify-content-center.align-items-stretch.mt-5
           .col-lg-11.border-bg-3.px-0
-            p.p-3.text-center.bg-2 #[b Legales o reglamentarios]
-            p.p-3 De acuerdo con cumplir leyes. 
+            p.p-3.text-center.bg-2_1 #[b Legales o reglamentarios]
+            p.mb-0.p-3 De acuerdo con cumplir leyes.
+              br
+              br
+              
 
       .col-lg-3(data-aos="zoom-in")
         .row.justify-content-center.align-items-stretch.mt-5
           .col-lg-11.border-bg-3.px-0
-            p.p-3.text-center.bg-2 #[b Legales o reglamentarios]
-            p.p-3 Según las políticas de la empresa. 
-
+            p.p-3.text-center.bg-2_1 #[b Legales o reglamentarios]
+            p.mb-0.p-3 Según las políticas de la empresa.
+              br
+              br              
+            
     p.mt-5 Los requisitos para revisar en patronaje son: 
 
     .row.justify-content-center.align-items-center.mt-5
@@ -1039,7 +1045,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
         h4(data-aos="fade-right") Piquetes y puntos
-        p(data-aos="fade-left")  Existencia de puntos y piquetes, alineando las piezas y realizando la unión de puntos y piquetes. 
+        p(data-aos="fade-left") Existencia de puntos y piquetes, alineando las piezas en correspondencia con los marcados en el patronaje o molde de una pieza. 
 
         .hr  
 
