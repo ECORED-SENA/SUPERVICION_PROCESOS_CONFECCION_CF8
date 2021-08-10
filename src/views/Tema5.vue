@@ -122,7 +122,7 @@
     p.mt-5 En lo que respecta al #[b #[i cliente]], se puede plantear de 3 niveles de satisfacción:  
     .row.justify-content-center.align-items-stretch.mt-5
       .col-lg-4.border-bg-2.p-5.bg-2(data-aos="zoom-in")
-        img.img-t(src='@/assets/ilustraciones/img70.png', alt='')      
+        img.img-t(src='@/assets/ilustraciones/img70.svg', alt='')      
         p #[b Necesidades] 
           <br> Principal objetivo del producto
         .row.justify-content-center.align-items-center.mb-3
@@ -158,7 +158,7 @@
                 .list__txt 
                     span.mb-4 Tiempo de duración de vida útil.
       .col-lg-4.border-bg-2.p-5.bg-2_1(data-aos="zoom-in")
-        img.img-t(src='@/assets/ilustraciones/img71.png', alt='')      
+        img.img-t(src='@/assets/ilustraciones/img71.svg', alt='')      
         p #[b Expectativas]
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-10.p-2            
@@ -181,7 +181,7 @@
                 .list__txt 
                     span Hacerlo sentir importante. 
       .col-lg-4.border-bg-2.p-5.bg-2(data-aos="zoom-in")
-        img.img-t(src='@/assets/ilustraciones/img72.png', alt='')      
+        img.img-t(src='@/assets/ilustraciones/img72.svg', alt='')      
         p #[b Superar expectativas]
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-10.p-2            
@@ -209,7 +209,7 @@
         .cajon.color-acento-contenido.p-4
           .row.justify-content-center.align-items-center
             .col-lg-4
-              img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img74.png', alt='')      
+              img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img74.svg', alt='')      
             .col-lg-6
               p En lo que respecta al #[b #[i producto]], existen los siguientes tipos de requisitos:             
               .list
@@ -262,7 +262,7 @@
         .cajon.color-acento-botones.p-5
           .row.justify-content-center.align-items-center       
             .col-lg-11
-              img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img76.png', alt='')            
+              img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img76.svg', alt='')            
               p.mt-4 Los beneficios de implementar las herramientas para controlar la calidad son, figura 16:            
               .list
                   .list__item
@@ -302,7 +302,7 @@
                       span Aumento de la productividad. 
       .col-lg-5
         .BorTit #[b Figura 16] Beneficios del control de calidad
-        img.img-t.img-a.mt-4(data-aos="zoom-in")(src='@/assets/ilustraciones/img75.png', alt='') 
+        img.img-t.img-a.mt-4(data-aos="zoom-in")(src='@/assets/ilustraciones/img75.svg', alt='') 
         figcaption.mt-4 Nota: Calidad Aplicada a la Gestión Empresarial (2018).     
 
     p.mt-5 El control de la calidad en la industria se realiza en procesos y recursos, aquellos intervienen en la producción de la prenda son, así como se puede observar en la figura 17:
